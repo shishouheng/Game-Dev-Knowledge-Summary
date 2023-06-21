@@ -38,7 +38,7 @@ Monobehaviour类是unity中脚本的基类，所有用户创建的unity脚本都
 
 unity官方也提供了完整的生命周期函数图，如下：
 
-![](D:\Unityf[`N{��\Unity-learning\picture\a27daec1899241e69f5e13916c1fffe2.png)
+![image](D:\Unity学习笔记\Unity-learning\note\a27daec1899241e69f5e13916c1fffe2.png)
 
 ## 事件函数
 
