@@ -4,10 +4,6 @@ Monobehaviour类是unity中脚本的基类，所有用户创建的unity脚本都
 
 例：可以创建一个继承于Monobehaviour类的PlayerController脚本，并将其附加到游戏对象身上，然后在PlayerController脚本中可以编写代码来控制角色的移动、跳跃、攻击等行为
 
-
-
-
-
 在Monobehaviour类中有两组特殊的函数：生命周期函数和事件函数
 
 ## 生命周期函数
