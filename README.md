@@ -4,6 +4,6 @@
 
 ## 目录：
 
-1 [Monobehaviour的生命周期函数和事件函数]([http://Unity-learning/note/Monobehaviour的生命周期函数和事件函数.md at main · zhushouheng/Unity-learning · GitHub](https://github.com/zhushouheng/Unity-learning/blob/main/note/Monobehaviour%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%87%BD%E6%95%B0%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%87%BD%E6%95%B0.md))
+1 [Monobehaviour的生命周期函数和事件函数](http://Unity-learning/note/Monobehaviour的生命周期函数和事件函数.md at main · zhushouheng/Unity-learning · GitHub](https://github.com/zhushouheng/Unity-learning/blob/main/note/Monobehaviour%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%87%BD%E6%95%B0%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%87%BD%E6%95%B0.md)
 
-2 [Component类]([http://Unity-learning/note/Component类.md at main · zhushouheng/Unity-learning · GitHub](https://github.com/zhushouheng/Unity-learning/blob/main/note/Component%E7%B1%BB.md))
+2 [Component类](http://Unity-learning/note/Component类.md at main · zhushouheng/Unity-learning · GitHub](https://github.com/zhushouheng/Unity-learning/blob/main/note/Component%E7%B1%BB.md)
