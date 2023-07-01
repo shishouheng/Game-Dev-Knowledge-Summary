@@ -8,4 +8,4 @@
 
 2 [Component类](https://github.com/zhushouheng/Unity-learning/blob/main/note/Component%E7%B1%BB.md)
 
-3[向量]([Unity-learning/note/向量.md at main · shishouheng/Unity-learning · GitHub](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%90%91%E9%87%8F.md))
+3[向量](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%90%91%E9%87%8F.md)
