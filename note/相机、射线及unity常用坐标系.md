@@ -154,11 +154,23 @@ unity中使用Ray这个结构体来表示一个射线；（构建射线）origin
 
 ![](https://github.com/shishouheng/Unity-learning/blob/main/images/perpendicular%20to%20the%20slope.png)
 
-这并不符合现实生活中的规律，当人站在斜坡上时身体仍然会保持竖直，并且在x轴方向的并不会有所旋转，正确的样子是这样的
+这并不符合现实生活中的规律，当人站在斜坡上时身体仍然会保持竖直，并且面对的方向应该是正前方而不是平行于斜坡，正确的样子是这样的
 
 ![](https://github.com/shishouheng/Unity-learning/blob/main/images/after%20modification.png)
 
-所以为了展示正确的在斜坡上的姿势，还需要对代码进行修改
+所以为了展示正确的在斜坡上的姿势，还需要对代码进行修改。
+
+
+
+首先对这两个问题进行分析，角色面朝方向不是正前方的原因是因为LookAt方法传入的target是射线与平面相交的点的信息，而由于这个点是在斜面上，所以这个点的y值和角色的y值不同，所以如果使角色面朝这个点的话，就会产生角色抬头望向这个点，如果要解决这一点可以通过vector3里的set方法将目标点的y值改为与角色相同，而x和z轴上的值保持不动
+
+即`target.Set(target.x,transform.position.y,target.z);`,这样角色在移动到斜坡上时面朝的方向就时正前方了
+
+
+
+第二个问题的原因是没有考虑斜坡问题，角色只会直接移动到与射线相交的点，由于角色的轴心在角色脚底，所以当角色到达目标点时会出现角色身体垂直于地面的情况，所以可以通过将角色移动到目标点时的y值设置为目标点的y值来解决。
+
+因此可以从角色的位置向正下方发射一条射线，并将交点信息存储在hitInfo中，然后调整角色的y值为这个交点的y值，代码如下
 
     void MoveByRay2()
         {
@@ -180,6 +192,7 @@ unity中使用Ray这个结构体来表示一个射线；（构建射线）origin
                 target.Set(target.x, transform.position.y, target.z);
                 transform.LookAt(target);
                 transform.Translate(Vector3.forward * Time.deltaTime * speed);
+                //从角色身上发射一条向下的射线，将交点的y值设置为角色的y值
                 Ray ray = new Ray(transform.position + Vector3.up, Vector3.down);
                 RaycastHit hitInfo;
                 if(Physics.Raycast(ray,out hitInfo))
