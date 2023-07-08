@@ -160,4 +160,36 @@ unity中使用Ray这个结构体来表示一个射线；（构建射线）origin
 
 所以为了展示正确的在斜坡上的姿势，还需要对代码进行修改
 
-    
+    void MoveByRay2()
+        {
+            if(Input.GetMouseButtonDown(0))
+            {
+                Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+                RaycastHit hitInfo;
+                if(Physics.Raycast(ray,out hitInfo))
+                {
+                    if(hitInfo.transform.CompareTag("Ground"))
+                    {
+                        isMoveing = true;
+                        target = hitInfo.point;
+                    }
+                }
+            }
+            if(isMoveing&&Vector3.Distance(target,transform.position)>0.15f)
+            {
+                target.Set(target.x, transform.position.y, target.z);
+                transform.LookAt(target);
+                transform.Translate(Vector3.forward * Time.deltaTime * speed);
+                Ray ray = new Ray(transform.position + Vector3.up, Vector3.down);
+                RaycastHit hitInfo;
+                if(Physics.Raycast(ray,out hitInfo))
+                {
+                    if(hitInfo.transform.CompareTag("Ground"))
+                    {
+                        transform.position = new Vector3(transform.position.x, hitInfo.point.y, transform.position.z);
+                    }
+                }
+            }
+        }
+
+这样就可以实现第二幅图的效果了
