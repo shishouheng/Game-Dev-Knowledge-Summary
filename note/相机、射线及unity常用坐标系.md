@@ -152,11 +152,11 @@ unity中使用Ray这个结构体来表示一个射线；（构建射线）origin
 
 上面这段代码控制角色在地面行走时是没有问题的，但是如果在游戏场景中存在一个斜坡，这段代码由于没考虑斜坡倾斜的问题，所以在移动的时候只会直线移动到目标位置而，如下图
 
-![]()
+![](https://github.com/shishouheng/Unity-learning/blob/main/images/perpendicular%20to%20the%20slope.png)
 
 这并不符合现实生活中的规律，当人站在斜坡上时身体仍然会保持竖直，并且在x轴方向的并不会有所旋转，正确的样子是这样的
 
-![]()
+![](https://github.com/shishouheng/Unity-learning/blob/main/images/after%20modification.png)
 
 所以为了展示正确的在斜坡上的姿势，还需要对代码进行修改
 
