@@ -6,17 +6,11 @@
 
 单例模式是一种常用的设计模式，它提供了一种创建对象的最佳方式，确保一个类只有一个实例，并提供一个全局访问点 来访问这个唯一的实例。
 
-
-
 ### 2、优缺点分析：
 
 在游戏开发的过程中，有些类需要频繁的创建对象，这对于一些大型的对象（如AudioManager、GameManager等）来说会造成很大的性能开销，通过使用单例模式可以保证他们只存在唯一一个实例，就降低了内存的使用频率，减轻了GC的压力
 
-
-
 但同样也存在一些缺点，一是使用单例模式会增加代码的耦合度和复杂度，二是由于单例对象可以在任何地方访问，追踪和调试可能会比较困难；三是在多线程环境下存在线程安全问题，有可能引发竞态条件和数据不一致的问题
-
-
 
 ### 3、单例模式的实现
 
@@ -47,9 +41,6 @@
             }
         }
     }
-    
-    
-    
 
 ### 4、Unity中实现单例模式
 
@@ -58,8 +49,6 @@
 继承了Monobehaviour的类无法通过new关键字来创建对象，只能通过将其挂载到游戏物体身上来创建对象，每当一个物体身上挂载了一个继承了Monobehaviour类的脚本，就相当于创建了一个对象。
 
 但由于单例模式中需要通过new对象来创建唯一的实例并存储在一个静态变量中。所以这里需要改变一下思路：判断当前单例脚本挂载到了多少物体身上（也就是实例化了多少次），如果只有一次，那就实现了单例模式，如果大于1，那就给控制台输出一个错误信息，如果0次，那么挂载到某个游戏物体身上。
-
-
 
 代码如下：
 
@@ -97,8 +86,6 @@
 
 **注：`FindObjectsOfType()<MonoSingle>()` 返回的是挂载了MonoSingle组件的所有元素的数组，而`FindObjectOfType()<MonoSingle>` 返回的是挂载了MonoSingle的某个物体**
 
-
-
 继承了Monobehaviour的单例模板
 
     public class SingleTemplate<T> : MonoBehaviour where T:MonoBehaviour
@@ -128,10 +115,6 @@
         }
     }
 
-
-
-
-
 ## 二、Unity音频系统
 
 ### 1、音频片段的分类
@@ -140,15 +123,11 @@
 
 音效：适用于较短的音乐，发生特定行为时播放，如开门、走路、跳跃时，一般是aiff、wav等格式
 
-
-
 ### 2、音频系统常用组件
 
 AudioListener：音频监听器，通常附加到需要使用的摄像机上，用于监听游戏中的声音
 
 AudioSource：声源，一般附加到GameObject上，用于播放声音
-
-
 
 ### 3、AuidoManager
 
@@ -156,4 +135,32 @@ AudioManager在游戏开发中是用于管理游戏中音频资源和音频播�
 
 例：
 
-    
+    public class AudioManager : SingleTemplate<AudioManager>
+    {
+        private AudioSource BackGroundSound;
+        void Awake()
+        {
+            BackGroundSound = GetComponent<AudioSource>();
+        }
+        public void PlayBgMusic(string name)
+        {
+            if (!BackGroundSound.isPlaying)
+            {
+                AudioClip clip = Resources.Load<AudioClip>("AudioClips/" + name);
+                BackGroundSound.clip = clip;
+                BackGroundSound.Play();
+            }
+        }
+        public void StopBgMusic()
+        {
+            if (BackGroundSound.isPlaying)
+            {
+                BackGroundSound.Stop();
+            }
+        }
+        public void PlaySound(string name, Vector3 vector3)
+        {
+            AudioClip clip = Resources.Load<AudioClip>("AudioClips/" + name);
+            AudioSource.PlayClipAtPoint(clip, vector3);
+        }
+    }
