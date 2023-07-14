@@ -23,3 +23,5 @@
 9[线渲染器Line Render](https://github.com/shishouheng/Unity-learning/blob/main/note/%E7%BA%BF%E6%B8%B2%E6%9F%93%E5%99%A8Line%20Render.md)
 
 10[单例模式与Unity音频系统](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E4%B8%8EUnity%E9%9F%B3%E9%A2%91%E7%B3%BB%E7%BB%9F.md)
+
+11[note/对象池模式](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%AF%B9%E8%B1%A1%E6%B1%A0%E6%A8%A1%E5%BC%8F.md)
