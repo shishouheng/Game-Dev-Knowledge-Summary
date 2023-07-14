@@ -25,3 +25,7 @@
 10[单例模式与Unity音频系统](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E4%B8%8EUnity%E9%9F%B3%E9%A2%91%E7%B3%BB%E7%BB%9F.md)
 
 11[note/对象池模式](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%AF%B9%E8%B1%A1%E6%B1%A0%E6%A8%A1%E5%BC%8F.md)
+
+12[常用数据结构和方法总结](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93.md)
+
+13[常用移动方式总结](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%B8%B8%E7%94%A8%E7%A7%BB%E5%8A%A8%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93.md)
