@@ -29,3 +29,5 @@
 12[常用数据结构和方法总结](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93.md)
 
 13[常用移动方式总结](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%B8%B8%E7%94%A8%E7%A7%BB%E5%8A%A8%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93.md)
+
+14[Animation旧版动画系统](https://github.com/shishouheng/Unity-learning/blob/main/note/Animation%E5%8A%A8%E7%94%BB%E7%B3%BB%E7%BB%9F.md)
