@@ -31,3 +31,5 @@
 13[常用移动方式总结](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%B8%B8%E7%94%A8%E7%A7%BB%E5%8A%A8%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93.md)
 
 14[Animation旧版动画系统](https://github.com/shishouheng/Unity-learning/blob/main/note/Animation%E5%8A%A8%E7%94%BB%E7%B3%BB%E7%BB%9F.md)
+
+15[Animator新版动画系统](https://github.com/shishouheng/Unity-learning/blob/main/note/Animator%E6%96%B0%E7%89%88%E5%8A%A8%E7%94%BB%E7%B3%BB%E7%BB%9F.md)
