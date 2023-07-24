@@ -6,17 +6,13 @@
 
 - **属性介绍：**
 
-![]()
-
-
+![](https://github.com/shishouheng/Unity-learning/blob/main/images/UGUI%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/Text%20Attribute.jpg)
 
 - **相关组件：**
 
 **Out Line：** 可以为文本或者图像添加简单的轮廓效果。轮廓组件有以下几个属性：包括轮廓的颜色、轮廓效果在水平和垂直方向的距离以及是否将图形颜色叠加到效果颜色上
 
 **Shadow：** 可以为文本或者图像添加阴影效果。阴影组件具有以下几个属性：阴影的颜色、阴影的偏移（表示为矢量）以及是否将图形颜色叠加到效果颜色上
-
-
 
 ### 1、2 Image
 
@@ -60,11 +56,9 @@ Image中比较重要的属性是Image Type，并具有以下四种选项，需�
         }
     }  
 
-
-
 ### 1、3 Raw Image
 
-![]()
+![](https://github.com/shishouheng/Unity-learning/blob/main/images/UGUI%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/Raw%20Image%20Attribute.jpg)
 
 Raw Image在游戏开发中通常有以下三种用法
 
@@ -88,10 +82,6 @@ Raw Image在游戏开发中通常有以下三种用法
   
   如果需要播放声音的话再添加一个Audio Sources组件
 
-
-
-
-
 ## 二、可交互控件
 
 ### 2、1 Button
@@ -106,11 +96,8 @@ Raw Image在游戏开发中通常有以下三种用法
           {
               Debug.Log("开始执行重新开始游戏的逻辑");
           }
-      
 
-   然后将脚本挂载的物体拖拽到事件中并选择需要触发的事件即可![]()
-
-
+   然后将脚本挂载的物体拖拽到事件中并选择需要触发的事件即可![](https://github.com/shishouheng/Unity-learning/blob/main/images/UGUI%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/Button%20Click.jpg)
 
 - 通过代码添加事件：
   
@@ -119,19 +106,17 @@ Raw Image在游戏开发中通常有以下三种用法
           public Image buttonImage;
           public Sprite targetImage;
           public Button button;
-      	// Use this for initialization
-      	void Start ()
+          // Use this for initialization
+          void Start ()
           {
               if(button!=null)
               {
                   button.onClick.AddListener(() => button.transform.GetComponent<Image>().sprite= targetImage);  
               }
-      	}
+          }
       }
 
 通过代码给按钮添加事件需要通过onClick.AddListener方法来添加
-
-
 
 ### 2、2 Toggle
 
@@ -144,12 +129,8 @@ Raw Image在游戏开发中通常有以下三种用法
         {
             Debug.Log("按下了开关"+isOn);
         }
-    
-    
 
  通过onValueChanged.AddListener方法来添加事件
-
-
 
 ### 2、3 Slider
 
@@ -157,23 +138,17 @@ Raw Image在游戏开发中通常有以下三种用法
 
 该组件由一个背景图像、一个可填充区域和一个滑块组成。用户可通过拖动滑块或点击可填充区域来更改Slider组件的值
 
-
-
 ### 2、4 Scrollbar
 
 滑块，允许用户通过拖动滑块或点击箭头按钮来滚动内容。通常如Scroll View组件结合使用以提供滚动视图
 
 该组件由一个背景图像、两个箭头按钮和一个滑块组成。用户可以通过拖动滑块、点击箭头按钮或点击背景图像来更改Scrollbar组件的值
 
-
-
 ### 2、5 Dropdown
 
 下拉菜单，允许用户从一个下拉菜单中选择一个选项。Dropdown组件通常用于选择设置或者配置选项。
 
 Dropdown组件由一个标签文本、一个箭头图像和一个下拉菜单组成。当用户点击箭头图像时，下拉菜单将展开，显示所有可用选项。用户可点击其中一个选项来选择他，然后下拉菜单将关闭，并且标签文本将更新为显示所选选项
-
-
 
 ### 2、6 InputField
 
@@ -185,13 +160,9 @@ Placeholder：提示的文本信息
 
 Text：用户输入的文本信息
 
-
-
 ### 2、7 Panel
 
 通常充当父物体来将多个UI元素分组在一起，以便更好的组织UI界面
-
-
 
 ### 2、8  Scroll View
 
@@ -209,10 +180,8 @@ Scroll View组件由一个视口（Viewport）、一个可选的垂直滚动条�
 
 - Horizontal Layout Group：将子对象水平排列，可控制子对象的对齐方式、间距和填充
 
+搭配使用可实现道具背包和游戏公告的效果：
 
+![](https://github.com/shishouheng/Unity-learning/blob/main/images/UGUI%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/property%20bag.jpg)
 
-搭配使用可实现道具背包和游戏公共的效果：
-
-![]()
-
-![]()
+![](https://github.com/shishouheng/Unity-learning/blob/main/images/UGUI%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/game%20announcement.jpg)
