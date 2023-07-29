@@ -39,3 +39,5 @@
 17[UI系统之UGU](https://github.com/shishouheng/Unity-learning/blob/main/note/UI%E7%B3%BB%E7%BB%9F%E4%B9%8BUGUI.md)
 
 18[UGUI基础控件](https://github.com/shishouheng/Unity-learning/blob/main/note/UGUI%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6.md)
+
+19[UGUI事件注册](https://github.com/shishouheng/Unity-learning/blob/main/note/UGUI%E4%BA%8B%E4%BB%B6%E6%B3%A8%E5%86%8C.md)
