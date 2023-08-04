@@ -45,3 +45,5 @@
 20[UI实现怪物展示(鼠标控制旋转、切换怪物、武器、服装、播放动画)](https://github.com/shishouheng/Unity-learning/tree/main/note/UI%E5%AE%9E%E7%8E%B0%E6%80%AA%E7%89%A9%E5%B1%95%E7%A4%BA)
 
 21[UI框架](https://github.com/shishouheng/Unity-learning/tree/main/note/UI%E6%A1%86%E6%9E%B6)
+
+22[NGUI](https://github.com/shishouheng/Unity-learning/blob/main/note/NGUI.md)
