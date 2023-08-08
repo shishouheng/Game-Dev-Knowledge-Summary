@@ -49,3 +49,5 @@
 22[NGUI](https://github.com/shishouheng/Unity-learning/blob/main/note/NGUI.md)
 
 23[批处理和UI优化](https://github.com/shishouheng/Unity-learning/blob/main/note/%E6%89%B9%E5%A4%84%E7%90%86%E5%92%8CUI%E4%BC%98%E5%8C%96.md)
+
+24[数据持久化](https://github.com/shishouheng/Unity-learning/blob/main/note/%E6%95%B0%E6%8D%AE%E6%8C%81%E4%B9%85%E5%8C%96.md)
