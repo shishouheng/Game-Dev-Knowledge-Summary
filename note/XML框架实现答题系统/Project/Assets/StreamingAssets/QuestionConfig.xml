@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionConfig>
+<Question Desc="用于数据类型转换的类是？" RightKey="2">
+     <Option>A:Mod</Option>
+     <Option>B:Convert</Option>
+     <Option>C:Const</Option>
+     <Option>D:Single</Option>
+</Question>
+<Question Desc="C#是一种面向什么的语言？" RightKey="3">
+     <Option>A:机器</Option>
+     <Option>B:过程</Option>
+     <Option>C:对象</Option>
+     <Option>D:事物</Option>
+</Question>
+<Question Desc="属于C#语言的关键字？" RightKey="1">
+     <Option>A:abstract</Option>
+     <Option>B:camel</Option>
+     <Option>C:Salary</Option>
+     <Option>D:Employ</Option>
+</Question>
+<Question Desc="C#语言中，值类型包括：基本值类型、结构类型和？" RightKey="4">
+     <Option>A:小数类型</Option>
+     <Option>B:整数类型</Option>
+     <Option>C:类类型</Option>
+     <Option>D:枚举类型</Option>
+</Question>
+<Question Desc="下列关于抽象类的说法错误的是？" RightKey="1">
+     <Option>A:抽象类可以实例化</Option>
+     <Option>B:抽象类可以包含抽象方法</Option>
+     <Option>C:抽象类可以包含抽象属性</Option>
+     <Option>D:抽象类可以引用派生类的实例</Option>
+</Question>
+<Question Desc="以下变量命名正确的是？" RightKey="3">
+     <Option>A:7str</Option>
+     <Option>B:int</Option>
+     <Option>C:_stu_id</Option>
+     <Option>D:integer</Option>
+</Question>
+<Question Desc="类的以下特性中，可以用于方便地重用已有的代码和数据的是？" RightKey="3">
+     <Option>A:多态</Option>
+     <Option>B:封装</Option>
+     <Option>C:继承</Option>
+     <Option>D:抽象</Option>
+</Question>
+<Question Desc="C#中的方法重写使用关键字？" RightKey="1">
+     <Option>A: override</Option>
+     <Option>B:overload</Option>
+     <Option>C:static</Option>
+     <Option>D:inherit</Option>
+     </Question>
+<Question Desc="C#中修饰常量并且可以在构造函数中赋值的关键字是？" RightKey="2">
+     <Option>A:const</Option>
+     <Option>B:readonly</Option>
+     <Option>C:vritual</Option>
+	 <Option>D:ref</Option>
+</Question>
+<Question Desc="C#中的interface是为了解决什么问题而存在的？" RightKey="2">
+	 <Option>A:虚继承</Option>
+	 <Option>B:多重继承</Option>
+	 <Option>C:父类和子类的通信</Option>
+	 <Option>D:子类向父类构造传参</Option>
+</Question>
+</QuestionConfig>   
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
