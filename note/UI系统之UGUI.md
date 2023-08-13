@@ -72,6 +72,29 @@ UIScaleMode:UI缩放模式
 
 案例：通过代码利用ContentPixelSize实现不同分辨率设备的适配（主要考虑宽高，并按照自身指定的权重值进行缩放）
 
-    
+		using System.Collections;
+		using System.Collections.Generic;
+		using UnityEngine;
+		using UnityEngine.UI;		
+		public class UIAdjust : MonoBehaviour
+		{
+		    private CanvasScaler scaler;
+		    public float x;
+		    public float ScreenWidth;
+		    public float ScreenHeight;
+		    private void Awake()
+		    {
+		        scaler = GetComponent<CanvasScaler>();
+		    }
+		    void Update()
+		    {
+		        float w = Screen.width;
+		        float h = Screen.height;
+		        w = w / ScreenWidth;
+		        h = h / ScreenHeight;
+		        scaler.scaleFactor = w * x + h * (1 - x);
+		    }
+		}
+
 
 Scale with ScreenSize：自适应
