@@ -53,3 +53,7 @@
 24[数据持久化](https://github.com/shishouheng/Unity-learning/blob/main/note/%E6%95%B0%E6%8D%AE%E6%8C%81%E4%B9%85%E5%8C%96.md)
 
 25[XML框架实现答题系统](https://github.com/shishouheng/Unity-learning/tree/main/note/XML%E6%A1%86%E6%9E%B6%E5%AE%9E%E7%8E%B0%E7%AD%94%E9%A2%98%E7%B3%BB%E7%BB%9F)
+
+26 [塔防游戏](https://github.com/shishouheng/Unity-learning/tree/main/note/%E5%A1%94%E9%98%B2%E6%B8%B8%E6%88%8F/Project)
+
+27[背包商城系统](https://github.com/shishouheng/Unity-learning/tree/main/note/Sqlite%E5%AE%9E%E7%8E%B0%E8%83%8C%E5%8C%85%E3%80%81%E8%A3%85%E5%A4%87%E3%80%81%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F)
