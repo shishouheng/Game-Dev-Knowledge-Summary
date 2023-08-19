@@ -15,8 +15,8 @@ ScalingStyle：缩放模式，有以下三种选择
 - Constrained On Mobiles：以上两种的综合，自动判断运行平台
 
 实现屏幕适配的步骤，选择Constrained On Mobiles模式，并输入当前参考分辨率，然后将以下代码挂载到UICamera上即可实现屏幕适配
-
-    public class CameraAdjust : MonoBehaviour
+```c#
+ public class CameraAdjust : MonoBehaviour
     {
         //设备分辨率的宽高
         private float device_Width;
@@ -45,6 +45,7 @@ ScalingStyle：缩放模式，有以下三种选择
             }
         }
     }
+```
 
 ### 1、2 UIPanel
 
@@ -137,7 +138,8 @@ Max Lines：多少行来显示字体 0的话是不限制
 
 类似于UGUI中的Button，同样可以通过编辑器拖拽或者代码两种方式添加回调函数
 
-    using System.Collections;
+```c#
+using System.Collections;
     using System.Collections.Generic;
     using UnityEngine;
     public class NGUITest : MonoBehaviour
@@ -170,6 +172,7 @@ Max Lines：多少行来显示字体 0的话是不限制
      }
     }go.name);
      };
+```
 
 ### 2、5 UIToggle
 
@@ -182,7 +185,8 @@ StartingState： 当前Toggle开始的状态；
 
 主要通过继承NGUI提供的UIDragDropItem类来实现，在NGUI提供的UIDragDropItem类中为我们提供了OnDragDropStart（开始拖拽）、OnDragDropMove（拖拽过程中）OnDragDropRelease（拖拽释放）和OnDragDropEnd（拖拽结束），这几个时机的虚方法，通过重写这些虚方法可以实现RPG背包道具的拖拽效果
 
-    public class DragDropItem : UIDragDropItem
+```c#
+ public class DragDropItem : UIDragDropItem
     {
         UISprite sprite;
         int startDepth;
@@ -220,12 +224,14 @@ StartingState： 当前Toggle开始的状态；
             }
         }
     }
+```
 
 ## NGUI动画系统
 
 NGUI为我们提供了Tween Position、Tween Rotation、Tween Color等等很多UI的动画脚本，借助这些脚本可以实现许多UI的动画效果
 
-    public class NGUITest : MonoBehaviour
+```c#
+  public class NGUITest : MonoBehaviour
     {
      //public TweenPosition startPanelTP;
      //public TweenPosition settingPanelTP;
@@ -246,3 +252,4 @@ NGUI为我们提供了Tween Position、Tween Rotation、Tween Color等等很多U
      Debug.Log ("Start播放完毕");
      }
     }
+```

@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "d4737d5c1cf36d99",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3f6303b897aa006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4bb9e6e7b362f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/UI系统之UGUI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8d2c3e9e456ed44",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4c647faf6952ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c1f738ebfeb950",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1970c9413bff6c6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29df2e1974367f78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "568e61bb04701221",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8378af825e886a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f38d207dbfee4ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "note/UI系统之UGUI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dba7c8a611dd195",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "note/UI系统之UGUI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c99a756b72502a84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e071f8f3e62a42e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "note/UI系统之UGUI.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e4bb9e6e7b362f81",
+  "lastOpenFiles": [
+    "note/UGUI事件注册.md",
+    "note/UGUI基础控件.md",
+    "note/NGUI.md",
+    "note/NavMesh网格导航.md",
+    "note/Monobehaviour的生命周期函数和事件函数.md",
+    "note/Component类.md",
+    "note/Animator新版动画系统.md",
+    "note/Animation动画系统.md",
+    "note/协程.md",
+    "note/向量.md",
+    "note/相机、射线及unity常用坐标系.md",
+    "note/线渲染器Line Render.md",
+    "note/物理系统.md",
+    "note/通过虚拟轴和角色控制器实现第三视角移动.md",
+    "note/四元数和欧拉角.md",
+    "note/数据持久化.md",
+    "note/批处理和UI优化.md",
+    "note/对象池模式.md",
+    "note/迭代器.md",
+    "note/单例模式与Unity音频系统.md",
+    "note/常用移动方式总结.md",
+    "note/常用数据结构和方法总结.md",
+    "c异常处理.md"
+  ]
+}

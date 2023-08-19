@@ -56,6 +56,7 @@
 
 AnimationState类表示动画状态机中的单个状态，通过这个类可以在播放任何动画时修改速度、权重、时间和层级，还可以设置动画混合和WrapMode
 
+```c#
             public bool enabled { get; set; }      
     
             public WrapMode wrapMode { get; set; }      
@@ -78,6 +79,7 @@ AnimationState类表示动画状态机中的单个状态，通过这个类可以
             public float weight { get; set; }//CrossFade  weight越高 效果越明显
     
             public AnimationBlendMode blendMode { get; set; }   
+```
 
 **AnimationState控制着AnimationClip的播放，包括播放速度、权重、时间和层等，因此，可以将AnimationState看作是控制AnimationClip播放的接口**
 
@@ -85,7 +87,8 @@ AnimationState类表示动画状态机中的单个状态，通过这个类可以
 
 案例1通过按键控制播放不同的动画
 
-    public class InputAnimations : MonoBehaviour
+```c#
+ public class InputAnimations : MonoBehaviour
     {
         private Animation ani;
         void Awake()
@@ -110,9 +113,11 @@ AnimationState类表示动画状态机中的单个状态，通过这个类可以
         }
     }
 
+```
 案例2：如何实现一个动画的倒放
 
-    using UnityEngine;
+```c#
+using UnityEngine;
     public class AnimationTest : MonoBehaviour
     {
         private Animation ani;
@@ -134,21 +139,25 @@ AnimationState类表示动画状态机中的单个状态，通过这个类可以
             ani.Play(clipName);
         }
     }
+```
 
 案例3：动画帧事件
 
 第一种方式可以在脚本中定义一个方法，这里就是直接输出一句话，然后在AnimationClip中选择一个具体的时间点添加事件，并且在inspector找到需要的方法添加事件
 
-        public void TestFunc()
+```c#
+  public void TestFunc()
         {
             Debug.Log("Player走到路中央了");
         }
+```
 
 ![](https://github.com/shishouheng/Unity-learning/blob/main/images/Animation/%E5%8A%A8%E7%94%BB%E5%B8%A7%E4%BA%8B%E4%BB%B6.jpg)
 
 第二种方式是通过代码手动添加动画帧事件
 
-    public class InputAnimations : MonoBehaviour
+```c#
+public class InputAnimations : MonoBehaviour
     {
         private Animation ani;
         string clipName = "playerAnimation1";
@@ -171,3 +180,5 @@ AnimationState类表示动画状态机中的单个状态，通过这个类可以
             aEvent.objectReferenceParameter = gameObject;          
             clip.AddEvent(aEvent);
         }
+
+```

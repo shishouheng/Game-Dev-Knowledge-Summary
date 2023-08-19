@@ -19,7 +19,8 @@
 
 为实现这个效果还需要先将相机设置为正交相机，即将相机的Projection设置为Orthographic，然后设置Clear Flags为Solid Color（纯色），以便更好的观察到绘制的线段
 
-    public class DrawOneLine : MonoBehaviour
+```c#
+  public class DrawOneLine : MonoBehaviour
     {
         private LineRenderer lineRenderer;
         void Awake()
@@ -45,6 +46,7 @@
             }
         }
     }
+```
 
 **注：在Vector3 mouseWorldPosition = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, 1));这段代码中不直接将Input.position作为参数传入的原因是Input.Position是鼠标在屏幕上的位置信息，它的z轴默认是相机的位置，而由于Vector3中的x、y、z都是浮点数，会上下浮动，如果某一时刻Input.Position.z的值浮动到小于相机的z时，相机就无法观测到，所以最好自己设置这个点的z值，只要保证大于相机的z值即可**
 
@@ -62,7 +64,8 @@
 
 同时为了增加代码的扩展性，减少代码之间的耦合性，可以将加点的代码放在预制体身上，将实例化预制体和获取鼠标世界坐标的代码挂载到场景中某个物体身上，这样在后续有其他需求时可以直接在预制体的代码中进行修改，然后再实例化的代码中直接调用即可，减少了耦合性
 
-    //预制体身上代码
+```c#
+//预制体身上代码
     public class Line : MonoBehaviour 
     {
         private LineRenderer lineRenderer;
@@ -102,10 +105,12 @@
             }
         }
     }
+```
 
 假如后续又需要对绘制的线条的起始和结束宽度进行设置，可以在Line类中添加一个SetWidth方法，然后在DrawLines调用，如下：
 
-    public class Line : MonoBehaviour 
+```c#
+ public class Line : MonoBehaviour 
     {
         private LineRenderer lineRenderer;
         List<Vector3> points = new List<Vector3>();
@@ -128,6 +133,7 @@
             lineRenderer.endWidth = end;
         }
     }
+```
 
 即可实现如下多条线段的绘制
 

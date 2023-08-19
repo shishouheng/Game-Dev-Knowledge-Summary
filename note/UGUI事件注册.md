@@ -24,7 +24,8 @@ Graphic Raycaster属性介绍：
 
 可视化控件身上会有一个Raycast Target组件，当勾选时代表该控件可以被射线检测到，然后我们就可以通过代码为可视化控件添加事件
 
-    void Update ()
+```c#
+ void Update ()
         {
             if(Input.GetMouseButtonDown(0))
             {
@@ -34,6 +35,7 @@ Graphic Raycaster属性介绍：
                     Debug.Log("没有点击到可视化控件上");
             }
         }
+```
 
 此时如果Image或者Text或者其他可视化控件勾选了Raycast Target，当鼠标点击控件时控制台会输出“点击到可视化控件上了”，也就意味着可视化控件像可交互控件一样获取到了用户的输入
 
@@ -75,7 +77,8 @@ Graphic Raycaster属性介绍：
 
 案例 实现鼠标拖拽UI元素
 
-    using UnityEngine;
+```c#
+ using UnityEngine;
     using UnityEngine.EventSystems;
     
     public class InterfaceTest : MonoBehaviour, IBeginDragHandler, IDragHandler
@@ -92,3 +95,4 @@ Graphic Raycaster属性介绍：
             transform.position = eventData.position + offest;
         }
     }
+```

@@ -24,10 +24,11 @@
 
 代码如下：
 
+   ```c#
     public class Singleton
     {
         private static Singleton instance;
-    
+        
         private Singleton(){}
         public static Singleton Instance
         {
@@ -41,6 +42,7 @@
             }
         }
     }
+```
 
 ### 4、Unity中实现单例模式
 
@@ -52,6 +54,7 @@
 
 代码如下：
 
+  ```c#
     public class MonoSingle : MonoBehaviour 
     {
         private static MonoSingle instance;
@@ -83,11 +86,13 @@
             }
         }
     }
+```
 
 **注：`FindObjectsOfType()<MonoSingle>()` 返回的是挂载了MonoSingle组件的所有元素的数组，而`FindObjectOfType()<MonoSingle>` 返回的是挂载了MonoSingle的某个物体**
 
 继承了Monobehaviour的单例模板
 
+   ```c#
     public class SingleTemplate<T> : MonoBehaviour where T:MonoBehaviour
     {
         private static T instance;
@@ -114,6 +119,7 @@
             }
         }
     }
+```
 
 ## 二、Unity音频系统
 
@@ -135,6 +141,7 @@ AudioManager在游戏开发中是用于管理游戏中音频资源和音频播�
 
 例：
 
+   ```c#
     public class AudioManager : SingleTemplate<AudioManager>
     {
         private AudioSource BackGroundSound;
@@ -164,3 +171,4 @@ AudioManager在游戏开发中是用于管理游戏中音频资源和音频播�
             AudioSource.PlayClipAtPoint(clip, vector3);
         }
     }
+```

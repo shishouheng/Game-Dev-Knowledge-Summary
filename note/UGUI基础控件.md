@@ -30,7 +30,8 @@ Image中比较重要的属性是Image Type，并具有以下四种选项，需�
 
 案例：鼠标右键实现血条的减少
 
-    public class Hp : MonoBehaviour
+```c#
+ public class Hp : MonoBehaviour
     {
         public Image hpImage;
         private float allHp = 100;
@@ -55,6 +56,7 @@ Image中比较重要的属性是Image Type，并具有以下四种选项，需�
             }
         }
     }  
+```
 
 ### 1、3 Raw Image
 
@@ -92,16 +94,18 @@ Raw Image在游戏开发中通常有以下三种用法
   
   首先随意写一段代码，并将这段代码的脚本挂载到Canvas上
   
+```c#
       public void OnClickBtn1()
           {
               Debug.Log("开始执行重新开始游戏的逻辑");
           }
+```
 
    然后将脚本挂载的物体拖拽到事件中并选择需要触发的事件即可![](https://github.com/shishouheng/Unity-learning/blob/main/images/UGUI%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/Button%20Click.jpg)
 
 - 通过代码添加事件：
-  
-      public class ButtonTest : MonoBehaviour
+  ```c#
+  public class ButtonTest : MonoBehaviour
       {
           public Image buttonImage;
           public Sprite targetImage;
@@ -115,6 +119,7 @@ Raw Image在游戏开发中通常有以下三种用法
               }
           }
       }
+```
 
 通过代码给按钮添加事件需要通过onClick.AddListener方法来添加
 
@@ -124,11 +129,13 @@ Raw Image在游戏开发中通常有以下三种用法
 
 该组件由一个可选的背景图像、一个可选的标签文本和一个切换开关（通常是一个复选框）组成。当用户点击切换开关时，Toggle组件的状态将改变并触发一个事件
 
-     tog.onValueChanged.AddListener(OnClickTog); 
+```c#
+ tog.onValueChanged.AddListener(OnClickTog); 
      private void OnClickTog(bool isOn)
         {
             Debug.Log("按下了开关"+isOn);
         }
+```
 
  通过onValueChanged.AddListener方法来添加事件
 
