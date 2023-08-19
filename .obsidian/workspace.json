@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/UI系统之UGUI.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/UI系统之UGUI.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/UI系统之UGUI.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/UI系统之UGUI.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "e4bb9e6e7b362f81",
   "lastOpenFiles": [
+    "note/迭代器.md",
+    "note/UI系统之UGUI.md",
     "note/UGUI事件注册.md",
     "note/UGUI基础控件.md",
     "note/NGUI.md",
@@ -166,7 +168,6 @@
     "note/数据持久化.md",
     "note/批处理和UI优化.md",
     "note/对象池模式.md",
-    "note/迭代器.md",
     "note/单例模式与Unity音频系统.md",
     "note/常用移动方式总结.md",
     "note/常用数据结构和方法总结.md",
