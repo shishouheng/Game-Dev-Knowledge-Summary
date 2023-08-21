@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "note/有限状态机FSM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "note/有限状态机FSM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "note/有限状态机FSM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "note/有限状态机FSM.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "e4bb9e6e7b362f81",
   "lastOpenFiles": [
+    "README.md",
     "note/摄像机跟随策略.md",
     "note/有限状态机FSM.md",
-    "README.md",
     "note/有限状态机/8.20.sln",
     "note/有限状态机/8.20.csproj",
     "note/有限状态机/UnityPackageManager/manifest.json",
