@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/有限状态机FSM.md",
+                "file": "note/摄像机跟随策略.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/有限状态机FSM.md",
+                "file": "note/摄像机跟随策略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/有限状态机FSM.md",
+                "file": "note/摄像机跟随策略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/有限状态机FSM.md"
+                "file": "note/摄像机跟随策略.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "e4bb9e6e7b362f81",
   "lastOpenFiles": [
+    "note/有限状态机FSM.md",
+    "note/摄像机跟随策略.md",
+    "README.md",
     "note/有限状态机/8.20.sln",
     "note/有限状态机/8.20.csproj",
     "note/有限状态机/UnityPackageManager/manifest.json",
@@ -158,12 +161,9 @@
     "note/有限状态机/ProjectSettings/UnityConnectSettings.asset",
     "note/有限状态机/ProjectSettings/TimeManager.asset",
     "note/有限状态机/ProjectSettings/TagManager.asset",
-    "note/有限状态机/ProjectSettings/QualitySettings.asset",
     "note/有限状态机/Assets/血条_(2)_爱给网_aigei_com.png",
     "note/迭代器.md",
-    "note/有限状态机FSM.md",
     "note/XML框架实现答题系统/Project/Assets/Square.png",
-    "README.md",
     "note/Monobehaviour的生命周期函数和事件函数.md",
     "note/UI系统之UGUI.md",
     "note/协程.md",
