@@ -73,7 +73,7 @@ UIScaleMode:UI缩放模式
 案例：通过代码利用ContentPixelSize实现不同分辨率设备的适配（主要考虑宽高，并按照自身指定的权重值进行缩放）
 
 ```c#
-using System.Collections;
+        using System.Collections;
 		using System.Collections.Generic;
 		using UnityEngine;
 		using UnityEngine.UI;		

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "note/有限状态机FSM.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
     "id": "568e61bb04701221",
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "note/有限状态机FSM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "note/有限状态机FSM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "note/有限状态机FSM.md"
               }
             }
           }
@@ -148,29 +148,43 @@
   },
   "active": "e4bb9e6e7b362f81",
   "lastOpenFiles": [
+    "note/有限状态机/8.20.sln",
+    "note/有限状态机/8.20.csproj",
+    "note/有限状态机/UnityPackageManager/manifest.json",
+    "note/有限状态机/UnityPackageManager",
+    "note/有限状态机/ProjectSettings/DynamicsManager.asset",
+    "note/有限状态机/ProjectSettings/EditorSettings.asset",
+    "note/有限状态机/ProjectSettings/EditorBuildSettings.asset",
+    "note/有限状态机/ProjectSettings/UnityConnectSettings.asset",
+    "note/有限状态机/ProjectSettings/TimeManager.asset",
+    "note/有限状态机/ProjectSettings/TagManager.asset",
+    "note/有限状态机/ProjectSettings/QualitySettings.asset",
+    "note/有限状态机/Assets/血条_(2)_爱给网_aigei_com.png",
     "note/迭代器.md",
+    "note/有限状态机FSM.md",
+    "note/XML框架实现答题系统/Project/Assets/Square.png",
+    "README.md",
+    "note/Monobehaviour的生命周期函数和事件函数.md",
     "note/UI系统之UGUI.md",
+    "note/协程.md",
+    "note/Animator新版动画系统.md",
+    "note/通过虚拟轴和角色控制器实现第三视角移动.md",
+    "note/相机、射线及unity常用坐标系.md",
     "note/UGUI事件注册.md",
     "note/UGUI基础控件.md",
     "note/NGUI.md",
     "note/NavMesh网格导航.md",
-    "note/Monobehaviour的生命周期函数和事件函数.md",
     "note/Component类.md",
-    "note/Animator新版动画系统.md",
     "note/Animation动画系统.md",
-    "note/协程.md",
     "note/向量.md",
-    "note/相机、射线及unity常用坐标系.md",
     "note/线渲染器Line Render.md",
     "note/物理系统.md",
-    "note/通过虚拟轴和角色控制器实现第三视角移动.md",
     "note/四元数和欧拉角.md",
     "note/数据持久化.md",
     "note/批处理和UI优化.md",
     "note/对象池模式.md",
     "note/单例模式与Unity音频系统.md",
     "note/常用移动方式总结.md",
-    "note/常用数据结构和方法总结.md",
-    "c异常处理.md"
+    "note/常用数据结构和方法总结.md"
   ]
 }

@@ -80,7 +80,7 @@ unity中使用Ray这个结构体来表示一个射线；（构建射线）origin
 在unity中 射线的检测 需要使用Raycast函数（Physics），他可以从一个点出发，沿着方向发射一条射线，检测 射线是否与场景中的物体相交；如果相交，返回相交点的信息，eg：坐标、相交点的物体名称等。
 
 案例1：从相机位置发射射线
-
+```c#
      private void Update()
         {
             //检测是否按下鼠标左键
@@ -94,9 +94,10 @@ unity中使用Ray这个结构体来表示一个射线；（构建射线）origin
                 Debug.Log(isObj);
             }
         }
+```
 
 案例2：从脚本挂载对象的位置发射射线
-
+```c#
     private void Update()
         {
             if (Input.GetMouseButtonDown(0))
@@ -111,10 +112,12 @@ unity中使用Ray这个结构体来表示一个射线；（构建射线）origin
                     Debug.Log("什么都没碰到");
             }
         }
+```
 
 案例3：通过射线控制角色移动
 
-    public class RayMove : MonoBehaviour 
+```c#
+ public class RayMove : MonoBehaviour 
     {
         Vector3 target;
         bool isMoveing = false;
@@ -149,6 +152,7 @@ unity中使用Ray这个结构体来表示一个射线；（构建射线）origin
             }
         }
     }
+```
 
 上面这段代码控制角色在地面行走时是没有问题的，但是如果在游戏场景中存在一个斜坡，这段代码由于没考虑斜坡倾斜的问题，所以在移动的时候只会直线移动到目标位置而，如下图
 
@@ -168,7 +172,8 @@ unity中使用Ray这个结构体来表示一个射线；（构建射线）origin
 
 因此可以从角色的位置向正下方发射一条射线，并将交点信息存储在hitInfo中，然后调整角色的y值为这个交点的y值，代码如下
 
-    void MoveByRay2()
+```c#
+void MoveByRay2()
         {
             if(Input.GetMouseButtonDown(0))
             {
@@ -200,5 +205,6 @@ unity中使用Ray这个结构体来表示一个射线；（构建射线）origin
                 }
             }
         }
+```
 
 这样就可以实现第二幅图的效果了
