@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4bb9e6e7b362f81",
+            "id": "3641f6e8ce8267e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/有限状态机FSM.md",
+                "file": "note/状态机.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/有限状态机FSM.md",
+                "file": "note/状态机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/有限状态机FSM.md",
+                "file": "note/状态机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/有限状态机FSM.md"
+                "file": "note/状态机.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,22 +146,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e4bb9e6e7b362f81",
+  "active": "3641f6e8ce8267e3",
   "lastOpenFiles": [
+    "note/角色状态机/Library/metadata/ee/eeff1f67ed2755d448d70fd935e4114b.info",
+    "note/角色状态机/Library/metadata/ee/eeff1f67ed2755d448d70fd935e4114b",
+    "note/角色状态机/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0.info",
+    "note/角色状态机/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0",
+    "note/角色状态机/Library/metadata/ee",
+    "note/角色状态机/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea.info",
+    "note/角色状态机/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea",
+    "note/角色状态机/Library/metadata/ed",
+    "note/角色状态机/Library/metadata/d8/d8227e9b72e5b1a499d6e067c5bb39c9.info",
+    "note/角色状态机/Library/metadata/d8/d8227e9b72e5b1a499d6e067c5bb39c9",
+    "note/角色状态机/Library/metadata/d8",
+    "note/角色状态机/Assets/血条_(2)_爱给网_aigei_com.png",
+    "Tip.md",
+    "note/状态机.md",
     "README.md",
     "note/摄像机跟随策略.md",
-    "note/有限状态机FSM.md",
-    "note/有限状态机/8.20.sln",
-    "note/有限状态机/8.20.csproj",
-    "note/有限状态机/UnityPackageManager/manifest.json",
-    "note/有限状态机/UnityPackageManager",
-    "note/有限状态机/ProjectSettings/DynamicsManager.asset",
-    "note/有限状态机/ProjectSettings/EditorSettings.asset",
-    "note/有限状态机/ProjectSettings/EditorBuildSettings.asset",
-    "note/有限状态机/ProjectSettings/UnityConnectSettings.asset",
-    "note/有限状态机/ProjectSettings/TimeManager.asset",
-    "note/有限状态机/ProjectSettings/TagManager.asset",
-    "note/有限状态机/Assets/血条_(2)_爱给网_aigei_com.png",
     "note/迭代器.md",
     "note/XML框架实现答题系统/Project/Assets/Square.png",
     "note/Monobehaviour的生命周期函数和事件函数.md",
@@ -183,8 +185,6 @@
     "note/数据持久化.md",
     "note/批处理和UI优化.md",
     "note/对象池模式.md",
-    "note/单例模式与Unity音频系统.md",
-    "note/常用移动方式总结.md",
-    "note/常用数据结构和方法总结.md"
+    "note/单例模式与Unity音频系统.md"
   ]
 }

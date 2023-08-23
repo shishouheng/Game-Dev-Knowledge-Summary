@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 4b0fe43320379a24b8dc7ca0d72131ae
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Boy R Calf
+    100002: Boy L Hand
+    100004: Boy L Forearm
+    100006: Boy L UpperArm
+    100008: Boy L Clavicle
+    100010: Boy Neck
+    100012: Boy Spine2
+    100014: Boy Spine1
+    100016: Boy Spine
+    100018: Scult_02
+    100020: Scult_01
+    100022: Boy L Finger1
+    100024: Boy L Finger01
+    100026: Boy L Finger0
+    100028: Boy L Thigh
+    100030: Scult_End
+    100032: Scult_03
+    100034: Darger
+    100036: Object004
+    100038: scff
+    100040: boy_body
+    100042: //RootNode
+    100044: Boy R Finger2Nub
+    100046: Boy R Finger1Nub
+    100048: Boy R Finger0Nub
+    100050: Boy L Finger2Nub
+    100052: Boy L Finger1Nub
+    100054: Boy L Finger0Nub
+    100056: Boy HeadNub
+    100058: Boy Head
+    100060: Point001
+    100062: Boy L Finger21
+    100064: Boy L Finger2
+    100066: Boy L Finger11
+    100068: Boy L Foot
+    100070: Boy L Calf
+    100072: Boy L Toe0Nub
+    100074: Boy L Toe0
+    100076: Boy R Hand
+    100078: Boy R Forearm
+    100080: Boy R UpperArm
+    100082: Boy R Clavicle
+    100084: Boy Pelvis
+    100086: Boy Footsteps
+    100088: Boy
+    100090: Object005
+    100092: Boy R Foot
+    100094: Boy R Finger21
+    100096: Boy R Finger2
+    100098: Boy R Finger11
+    100100: Side_Bag01
+    100102: Side_Bag_End
+    100104: Boy R Toe0Nub
+    100106: Boy R Thigh
+    100108: Weapon
+    100110: Boy R Finger1
+    100112: Boy R Finger01
+    100114: Boy R Finger0
+    100116: Boy R Toe0
+    400000: Boy R Calf
+    400002: Boy L Hand
+    400004: Boy L Forearm
+    400006: Boy L UpperArm
+    400008: Boy L Clavicle
+    400010: Boy Neck
+    400012: Boy Spine2
+    400014: Boy Spine1
+    400016: Boy Spine
+    400018: Scult_02
+    400020: Scult_01
+    400022: Boy L Finger1
+    400024: Boy L Finger01
+    400026: Boy L Finger0
+    400028: Boy L Thigh
+    400030: Scult_End
+    400032: Scult_03
+    400034: Darger
+    400036: Object004
+    400038: scff
+    400040: boy_body
+    400042: //RootNode
+    400044: Boy R Finger2Nub
+    400046: Boy R Finger1Nub
+    400048: Boy R Finger0Nub
+    400050: Boy L Finger2Nub
+    400052: Boy L Finger1Nub
+    400054: Boy L Finger0Nub
+    400056: Boy HeadNub
+    400058: Boy Head
+    400060: Point001
+    400062: Boy L Finger21
+    400064: Boy L Finger2
+    400066: Boy L Finger11
+    400068: Boy L Foot
+    400070: Boy L Calf
+    400072: Boy L Toe0Nub
+    400074: Boy L Toe0
+    400076: Boy R Hand
+    400078: Boy R Forearm
+    400080: Boy R UpperArm
+    400082: Boy R Clavicle
+    400084: Boy Pelvis
+    400086: Boy Footsteps
+    400088: Boy
+    400090: Object005
+    400092: Boy R Foot
+    400094: Boy R Finger21
+    400096: Boy R Finger2
+    400098: Boy R Finger11
+    400100: Side_Bag01
+    400102: Side_Bag_End
+    400104: Boy R Toe0Nub
+    400106: Boy R Thigh
+    400108: Weapon
+    400110: Boy R Finger1
+    400112: Boy R Finger01
+    400114: Boy R Finger0
+    400116: Boy R Toe0
+    4300000: boy_body
+    4300002: scff
+    4300004: Object004
+    4300006: Object005
+    4300008: Darger
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Darger
+    13700002: Object004
+    13700004: scff
+    13700006: boy_body
+    13700008: Object005
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: 2c09d8e0bf4fc3e4689ce674f6851257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\uC5BC\uAD74"
+    second: {fileID: 2100000, guid: c4aad4d2393776444b9dff29108f94c7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
