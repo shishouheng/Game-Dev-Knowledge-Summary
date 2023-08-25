@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: aa5b0cf4990e5884e869df27e52df932
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RLegUpper
+    100004: LArmThumb3
+    100006: LArmThumb2
+    100008: RLegAnkle
+    100010: RLegToe1
+    100012: RLegCalf
+    100014: Pelvis
+    100018: LArmThumb1
+    100020: LArmIndex3
+    100022: LArmIndex2
+    100024: LArmIndex1
+    100026: LArmMid3
+    100028: LArmMid2
+    100030: LArmMid1
+    100032: LArmRing3
+    100034: LArmRing2
+    100036: LArmRing1
+    100038: LArmPinky3
+    100040: LArmPinky2
+    100042: LArmPinky1
+    100044: LArmHand
+    100046: LArmForearm2
+    100048: LArmForearm1
+    100050: LArmUpper2
+    100052: LArmUpper1
+    100054: LArmCollarbone
+    100056: Soldier
+    100058: RArmThumb3
+    100060: RArmThumb2
+    100062: RArmThumb1
+    100064: RArmIndex3
+    100066: RArmIndex2
+    100068: RArmIndex1
+    100070: RArmMid3
+    100072: RArmMid2
+    100074: RArmMid1
+    100076: RArmRing3
+    100078: RArmRing2
+    100080: RArmRing1
+    100082: RArmPinky3
+    100084: RArmPinky2
+    100086: RArmPinky1
+    100088: RArmHand
+    100090: RArmForearm2
+    100092: RArmForearm1
+    100094: RArmUpper2
+    100096: RArmUpper1
+    100098: RArmCollarbone
+    100100: Lmouth
+    100102: Rmouth
+    100104: Lbrow
+    100106: Rbrow
+    100108: Leyelid
+    100110: Reyelid
+    100112: NeckHead
+    100114: Neck1
+    100116: Spine3
+    100118: Spine2
+    100120: Spine1
+    100122: LLegToe1
+    100124: LLegAnkle
+    100126: LLegCalf
+    100128: LLegUpper
+    100130: M4MB
+    400000: //RootNode
+    400002: RLegUpper
+    400004: LArmThumb3
+    400006: LArmThumb2
+    400008: RLegAnkle
+    400010: RLegToe1
+    400012: RLegCalf
+    400014: Pelvis
+    400018: LArmThumb1
+    400020: LArmIndex3
+    400022: LArmIndex2
+    400024: LArmIndex1
+    400026: LArmMid3
+    400028: LArmMid2
+    400030: LArmMid1
+    400032: LArmRing3
+    400034: LArmRing2
+    400036: LArmRing1
+    400038: LArmPinky3
+    400040: LArmPinky2
+    400042: LArmPinky1
+    400044: LArmHand
+    400046: LArmForearm2
+    400048: LArmForearm1
+    400050: LArmUpper2
+    400052: LArmUpper1
+    400054: LArmCollarbone
+    400056: Soldier
+    400058: RArmThumb3
+    400060: RArmThumb2
+    400062: RArmThumb1
+    400064: RArmIndex3
+    400066: RArmIndex2
+    400068: RArmIndex1
+    400070: RArmMid3
+    400072: RArmMid2
+    400074: RArmMid1
+    400076: RArmRing3
+    400078: RArmRing2
+    400080: RArmRing1
+    400082: RArmPinky3
+    400084: RArmPinky2
+    400086: RArmPinky1
+    400088: RArmHand
+    400090: RArmForearm2
+    400092: RArmForearm1
+    400094: RArmUpper2
+    400096: RArmUpper1
+    400098: RArmCollarbone
+    400100: Lmouth
+    400102: Rmouth
+    400104: Lbrow
+    400106: Rbrow
+    400108: Leyelid
+    400110: Reyelid
+    400112: NeckHead
+    400114: Neck1
+    400116: Spine3
+    400118: Spine2
+    400120: Spine1
+    400122: LLegToe1
+    400124: LLegAnkle
+    400126: LLegCalf
+    400128: LLegUpper
+    400130: M4MB
+    2300000: M4MB
+    3300000: M4MB
+    4300000: M4MB
+    4300002: Soldier
+    4300004: Cylinder01
+    7400000: Take 001
+    7400002: Ladder Down
+    11100000: //RootNode
+    13700000: Soldier
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ladder Down
+      takeName: 
+      firstFrame: 1
+      lastFrame: 349
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

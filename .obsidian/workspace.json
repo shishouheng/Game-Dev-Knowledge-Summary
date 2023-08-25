@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/状态机.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/状态机.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/状态机.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/状态机.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,20 +148,22 @@
   },
   "active": "3641f6e8ce8267e3",
   "lastOpenFiles": [
-    "note/角色状态机/Library/metadata/ee/eeff1f67ed2755d448d70fd935e4114b.info",
-    "note/角色状态机/Library/metadata/ee/eeff1f67ed2755d448d70fd935e4114b",
-    "note/角色状态机/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0.info",
-    "note/角色状态机/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0",
-    "note/角色状态机/Library/metadata/ee",
-    "note/角色状态机/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea.info",
-    "note/角色状态机/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea",
-    "note/角色状态机/Library/metadata/ed",
-    "note/角色状态机/Library/metadata/d8/d8227e9b72e5b1a499d6e067c5bb39c9.info",
-    "note/角色状态机/Library/metadata/d8/d8227e9b72e5b1a499d6e067c5bb39c9",
-    "note/角色状态机/Library/metadata/d8",
-    "note/角色状态机/Assets/血条_(2)_爱给网_aigei_com.png",
-    "Tip.md",
+    "note/Tip.md",
+    "note/导航状态机/8.24.sln",
+    "note/导航状态机/8.24.csproj",
+    "note/导航状态机/8.2.sln",
+    "note/导航状态机/UnityPackageManager/manifest.json",
+    "note/导航状态机/UnityPackageManager",
+    "note/导航状态机/ProjectSettings/UnityConnectSettings.asset",
+    "note/导航状态机/ProjectSettings/TimeManager.asset",
+    "note/导航状态机/ProjectSettings/TagManager.asset",
+    "note/导航状态机/ProjectSettings/QualitySettings.asset",
+    "note/导航状态机/ProjectSettings/ProjectVersion.txt",
+    "note/面试问题总结.md",
+    "images/Tip/Transitions.png",
     "note/状态机.md",
+    "Tip.md",
+    "note/角色状态机/Assets/血条_(2)_爱给网_aigei_com.png",
     "README.md",
     "note/摄像机跟随策略.md",
     "note/迭代器.md",
@@ -183,8 +185,6 @@
     "note/物理系统.md",
     "note/四元数和欧拉角.md",
     "note/数据持久化.md",
-    "note/批处理和UI优化.md",
-    "note/对象池模式.md",
-    "note/单例模式与Unity音频系统.md"
+    "note/批处理和UI优化.md"
   ]
 }
