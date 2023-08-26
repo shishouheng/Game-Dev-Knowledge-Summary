@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "note/AStar算法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "note/AStar算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "note/AStar算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "note/AStar算法.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "3641f6e8ce8267e3",
   "lastOpenFiles": [
+    "note/AStar寻路.pdf",
+    "README.md",
+    "note/AStar算法.md",
     "note/Tip.md",
     "note/导航状态机/8.24.sln",
     "note/导航状态机/8.24.csproj",
@@ -164,7 +167,6 @@
     "note/状态机.md",
     "Tip.md",
     "note/角色状态机/Assets/血条_(2)_爱给网_aigei_com.png",
-    "README.md",
     "note/摄像机跟随策略.md",
     "note/迭代器.md",
     "note/XML框架实现答题系统/Project/Assets/Square.png",
@@ -184,7 +186,6 @@
     "note/线渲染器Line Render.md",
     "note/物理系统.md",
     "note/四元数和欧拉角.md",
-    "note/数据持久化.md",
-    "note/批处理和UI优化.md"
+    "note/数据持久化.md"
   ]
 }
