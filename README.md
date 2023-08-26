@@ -65,3 +65,5 @@
 30[相机跟随策略](https://github.com/shishouheng/Unity-learning/blob/main/note/%E6%91%84%E5%83%8F%E6%9C%BA%E8%B7%9F%E9%9A%8F%E7%AD%96%E7%95%A5.md)
 
 31[导航状态机](https://github.com/shishouheng/Unity-learning/tree/main/note/%E5%AF%BC%E8%88%AA%E7%8A%B6%E6%80%81%E6%9C%BA)
+
+32[AStar寻路算法](https://github.com/shishouheng/Unity-learning/blob/main/note/AStar%E7%AE%97%E6%B3%95.md)

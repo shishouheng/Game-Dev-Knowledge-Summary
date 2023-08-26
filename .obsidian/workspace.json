@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/AStar算法.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/AStar算法.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/AStar算法.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/AStar算法.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "3641f6e8ce8267e3",
   "lastOpenFiles": [
+    "note/AStar算法.md",
     "note/AStar寻路.pdf",
     "README.md",
-    "note/AStar算法.md",
     "note/Tip.md",
     "note/导航状态机/8.24.sln",
     "note/导航状态机/8.24.csproj",
@@ -161,7 +161,6 @@
     "note/导航状态机/ProjectSettings/TimeManager.asset",
     "note/导航状态机/ProjectSettings/TagManager.asset",
     "note/导航状态机/ProjectSettings/QualitySettings.asset",
-    "note/导航状态机/ProjectSettings/ProjectVersion.txt",
     "note/面试问题总结.md",
     "images/Tip/Transitions.png",
     "note/状态机.md",

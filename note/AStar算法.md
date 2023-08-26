@@ -1,4 +1,4 @@
-原理：
+原理：[AStar寻路](https://github.com/shishouheng/Unity-learning/blob/main/note/AStar%E5%AF%BB%E8%B7%AF.pdf)
 
 代码：
 ```c#
