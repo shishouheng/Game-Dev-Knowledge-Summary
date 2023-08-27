@@ -60,10 +60,12 @@
 
 28[迭代器](https://github.com/shishouheng/Unity-learning/blob/main/note/%E8%BF%AD%E4%BB%A3%E5%99%A8.md)
 
-29[玩家敌人状态机](https://github.com/shishouheng/Unity-learning/blob/main/note/%E6%9C%89%E9%99%90%E7%8A%B6%E6%80%81%E6%9C%BAFSM.md)
+29[玩家动画状态机+敌人状态状态机](https://github.com/shishouheng/Unity-learning/blob/main/note/%E6%9C%89%E9%99%90%E7%8A%B6%E6%80%81%E6%9C%BAFSM.md)
 
 30[相机跟随策略](https://github.com/shishouheng/Unity-learning/blob/main/note/%E6%91%84%E5%83%8F%E6%9C%BA%E8%B7%9F%E9%9A%8F%E7%AD%96%E7%95%A5.md)
 
 31[导航状态机](https://github.com/shishouheng/Unity-learning/tree/main/note/%E5%AF%BC%E8%88%AA%E7%8A%B6%E6%80%81%E6%9C%BA)
 
 32[AStar寻路算法](https://github.com/shishouheng/Unity-learning/blob/main/note/AStar%E7%AE%97%E6%B3%95.md)
+
+33[动画状态机+顿帧效果 ](https://github.com/shishouheng/Unity-learning/tree/main/note/%E5%8A%A8%E7%94%BB%E7%8A%B6%E6%80%81%E6%9C%BA%2B%E6%89%93%E5%87%BB%E6%84%9F%E6%95%88%E6%9E%9C)
