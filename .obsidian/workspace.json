@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "note/特性和反射.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "note/特性和反射.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "note/特性和反射.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "note/特性和反射.md"
               }
             }
           }
@@ -148,9 +148,18 @@
   },
   "active": "3641f6e8ce8267e3",
   "lastOpenFiles": [
+    "note/DoTween插件.md",
+    "note/特性和反射.md",
+    "note/面试问题总结.md",
+    "note/常用移动方式总结.md",
+    "README.md",
+    "note/批处理和UI优化.md",
+    "Pasted image 20230829223232.png",
+    "Pasted image 20230829223104.png",
+    "images/缓动函数.png",
+    "note/EasyTouch触控插件和KGFMapSystem小地图插件.md",
     "note/AStar算法.md",
     "note/AStar寻路.pdf",
-    "README.md",
     "note/Tip.md",
     "note/导航状态机/8.24.sln",
     "note/导航状态机/8.24.csproj",
@@ -161,7 +170,6 @@
     "note/导航状态机/ProjectSettings/TimeManager.asset",
     "note/导航状态机/ProjectSettings/TagManager.asset",
     "note/导航状态机/ProjectSettings/QualitySettings.asset",
-    "note/面试问题总结.md",
     "images/Tip/Transitions.png",
     "note/状态机.md",
     "Tip.md",
@@ -181,10 +189,6 @@
     "note/NavMesh网格导航.md",
     "note/Component类.md",
     "note/Animation动画系统.md",
-    "note/向量.md",
-    "note/线渲染器Line Render.md",
-    "note/物理系统.md",
-    "note/四元数和欧拉角.md",
-    "note/数据持久化.md"
+    "note/向量.md"
   ]
 }
