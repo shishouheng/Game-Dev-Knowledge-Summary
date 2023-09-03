@@ -242,7 +242,7 @@ Sequence有几个常用的方法：
 
 ### 1.12缓动函数
 ![[Pasted image 20230829223232.png]]
-
+![](https://github.com/shishouheng/Unity-learning/blob/main/images/%E7%BC%93%E5%8A%A8%E5%87%BD%E6%95%B0.png)
 
 ## 2、DoTween Path
 DOTweenPath是DOTween的另一个组件，允许在Unity中创建和编辑路径动画。可以使用它来定义一个物体沿着一条路径移动的动画。

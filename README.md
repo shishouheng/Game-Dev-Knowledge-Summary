@@ -69,3 +69,9 @@
 32[AStar寻路算法](https://github.com/shishouheng/Unity-learning/blob/main/note/AStar%E7%AE%97%E6%B3%95.md)
 
 33[动画状态机+顿帧效果 ](https://github.com/shishouheng/Unity-learning/tree/main/note/%E5%8A%A8%E7%94%BB%E7%8A%B6%E6%80%81%E6%9C%BA%2B%E6%89%93%E5%87%BB%E6%84%9F%E6%95%88%E6%9E%9C)
+
+34[EasyTouch触控插件和KGFMapSystem小地图插件](https://github.com/shishouheng/Unity-learning/blob/main/note/EasyTouch%E8%A7%A6%E6%8E%A7%E6%8F%92%E4%BB%B6%E5%92%8CKGFMapSystem%E5%B0%8F%E5%9C%B0%E5%9B%BE%E6%8F%92%E4%BB%B6.md)
+
+35[DoTween插件](https://github.com/shishouheng/Unity-learning/blob/main/note/DoTween%E6%8F%92%E4%BB%B6.md)
+
+36[特性和反射](https://github.com/shishouheng/Unity-learning/blob/main/note/%E7%89%B9%E6%80%A7%E5%92%8C%E5%8F%8D%E5%B0%84.md)
