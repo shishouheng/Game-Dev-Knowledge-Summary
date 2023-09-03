@@ -60,7 +60,7 @@
 
 28[迭代器](https://github.com/shishouheng/Unity-learning/blob/main/note/%E8%BF%AD%E4%BB%A3%E5%99%A8.md)
 
-29[玩家动画状态机+敌人状态状态机](https://github.com/shishouheng/Unity-learning/blob/main/note/%E6%9C%89%E9%99%90%E7%8A%B6%E6%80%81%E6%9C%BAFSM.md)
+29[玩家动画状态机+敌人状态状态机](https://github.com/shishouheng/Unity-learning/tree/main/note/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E7%94%BB%E7%8A%B6%E6%80%81%E6%9C%BA%2B%E6%95%8C%E4%BA%BA%E7%8A%B6%E6%80%81%E7%8A%B6%E6%80%81%E6%9C%BA)
 
 30[相机跟随策略](https://github.com/shishouheng/Unity-learning/blob/main/note/%E6%91%84%E5%83%8F%E6%9C%BA%E8%B7%9F%E9%9A%8F%E7%AD%96%E7%95%A5.md)
 
