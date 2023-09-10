@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "note/迭代器.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#：",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "note/迭代器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -102,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "note/迭代器.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "note/迭代器.md"
               }
             }
           }
@@ -148,19 +148,27 @@
   },
   "active": "3641f6e8ce8267e3",
   "lastOpenFiles": [
-    "note/DoTween插件.md",
-    "README.md",
-    "note/特性和反射.md",
+    "note/Lua与C Sharp对比.md",
+    "note/Lua.md",
+    "note/迭代器.md",
     "note/面试问题总结.md",
+    "未命名.md",
+    "note/AssetBundle.md",
+    "Pasted image 20230905210727.png",
+    "Pasted image 20230905204156.png",
+    "note/AStar算法.md",
+    "note/AStar寻路.pdf",
+    "note/Component类.md",
+    "note/特性和反射.md",
+    "note/Tip.md",
+    "README.md",
+    "note/DoTween插件.md",
     "note/常用移动方式总结.md",
     "note/批处理和UI优化.md",
     "Pasted image 20230829223232.png",
     "Pasted image 20230829223104.png",
     "images/缓动函数.png",
     "note/EasyTouch触控插件和KGFMapSystem小地图插件.md",
-    "note/AStar算法.md",
-    "note/AStar寻路.pdf",
-    "note/Tip.md",
     "note/导航状态机/8.24.sln",
     "note/导航状态机/8.24.csproj",
     "note/导航状态机/8.2.sln",
@@ -175,7 +183,6 @@
     "Tip.md",
     "note/角色状态机/Assets/血条_(2)_爱给网_aigei_com.png",
     "note/摄像机跟随策略.md",
-    "note/迭代器.md",
     "note/XML框架实现答题系统/Project/Assets/Square.png",
     "note/Monobehaviour的生命周期函数和事件函数.md",
     "note/UI系统之UGUI.md",
@@ -184,11 +191,6 @@
     "note/通过虚拟轴和角色控制器实现第三视角移动.md",
     "note/相机、射线及unity常用坐标系.md",
     "note/UGUI事件注册.md",
-    "note/UGUI基础控件.md",
-    "note/NGUI.md",
-    "note/NavMesh网格导航.md",
-    "note/Component类.md",
-    "note/Animation动画系统.md",
-    "note/向量.md"
+    "note/UGUI基础控件.md"
   ]
 }
