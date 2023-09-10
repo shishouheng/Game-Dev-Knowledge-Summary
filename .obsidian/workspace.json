@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/迭代器.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/迭代器.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/迭代器.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/迭代器.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,24 +148,24 @@
   },
   "active": "3641f6e8ce8267e3",
   "lastOpenFiles": [
+    "Pasted image 20230829223232.png",
+    "Pasted image 20230905204156.png",
+    "Pasted image 20230905210727.png",
+    "README.md",
+    "note/迭代器.md",
     "note/Lua与C Sharp对比.md",
     "note/Lua.md",
-    "note/迭代器.md",
     "note/面试问题总结.md",
     "未命名.md",
     "note/AssetBundle.md",
-    "Pasted image 20230905210727.png",
-    "Pasted image 20230905204156.png",
     "note/AStar算法.md",
     "note/AStar寻路.pdf",
     "note/Component类.md",
     "note/特性和反射.md",
     "note/Tip.md",
-    "README.md",
     "note/DoTween插件.md",
     "note/常用移动方式总结.md",
     "note/批处理和UI优化.md",
-    "Pasted image 20230829223232.png",
     "Pasted image 20230829223104.png",
     "images/缓动函数.png",
     "note/EasyTouch触控插件和KGFMapSystem小地图插件.md",
@@ -190,7 +190,6 @@
     "note/Animator新版动画系统.md",
     "note/通过虚拟轴和角色控制器实现第三视角移动.md",
     "note/相机、射线及unity常用坐标系.md",
-    "note/UGUI事件注册.md",
-    "note/UGUI基础控件.md"
+    "note/UGUI事件注册.md"
   ]
 }

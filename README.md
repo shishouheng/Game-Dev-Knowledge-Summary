@@ -75,3 +75,9 @@
 35[DoTween插件](https://github.com/shishouheng/Unity-learning/blob/main/note/DoTween%E6%8F%92%E4%BB%B6.md)
 
 36[特性和反射](https://github.com/shishouheng/Unity-learning/blob/main/note/%E7%89%B9%E6%80%A7%E5%92%8C%E5%8F%8D%E5%B0%84.md)
+
+37[AssetBundle](https://github.com/shishouheng/Unity-learning/blob/main/note/AssetBundle.md)
+
+38[Lua](https://github.com/shishouheng/Unity-learning/blob/main/note/Lua.md)
+
+39[Lua与C Sharp对比](https://github.com/shishouheng/Unity-learning/blob/main/note/Lua%E4%B8%8EC%20Sharp%E5%AF%B9%E6%AF%94.md)
