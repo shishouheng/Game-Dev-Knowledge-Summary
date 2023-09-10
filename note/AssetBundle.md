@@ -156,10 +156,7 @@ public class Loder : MonoBehaviour
 - `AssetBundle.Unload(true):` 释放AssetBundle文件的内存镜像并销毁所有资源对象，无论其是否加载
 
 
-![[Pasted image 20230905210727.png]]
-
-
-
+![](https://github.com/shishouheng/Unity-learning/blob/main/images/assetbundle.png)
 # 四、总结
 
 ## 1.Unity的资源加载机制

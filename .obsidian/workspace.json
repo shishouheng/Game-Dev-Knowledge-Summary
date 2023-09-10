@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3f6303b897aa006",
+        "id": "65b4defc27ba99e1",
         "type": "tabs",
         "children": [
           {
-            "id": "3641f6e8ce8267e3",
+            "id": "18df43a5ba259ec4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "note/AssetBundle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "note/AssetBundle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "note/AssetBundle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "note/AssetBundle.md"
               }
             }
           }
@@ -146,18 +146,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3641f6e8ce8267e3",
+  "active": "18df43a5ba259ec4",
   "lastOpenFiles": [
+    "[Unity-learning/images/assetbundle.png.md",
+    "note/AssetBundle.md",
+    "note/Monobehaviour的生命周期函数和事件函数.md",
+    "note/相机、射线及unity常用坐标系.md",
+    "[Unity-learning/images",
+    "[Unity-learning",
+    "Pasted image 20230905210727.png.md",
+    "README.md",
     "Pasted image 20230829223232.png",
     "Pasted image 20230905204156.png",
     "Pasted image 20230905210727.png",
-    "README.md",
     "note/迭代器.md",
     "note/Lua与C Sharp对比.md",
     "note/Lua.md",
     "note/面试问题总结.md",
     "未命名.md",
-    "note/AssetBundle.md",
     "note/AStar算法.md",
     "note/AStar寻路.pdf",
     "note/Component类.md",
@@ -176,20 +182,15 @@
     "note/导航状态机/UnityPackageManager",
     "note/导航状态机/ProjectSettings/UnityConnectSettings.asset",
     "note/导航状态机/ProjectSettings/TimeManager.asset",
-    "note/导航状态机/ProjectSettings/TagManager.asset",
-    "note/导航状态机/ProjectSettings/QualitySettings.asset",
     "images/Tip/Transitions.png",
     "note/状态机.md",
     "Tip.md",
     "note/角色状态机/Assets/血条_(2)_爱给网_aigei_com.png",
     "note/摄像机跟随策略.md",
     "note/XML框架实现答题系统/Project/Assets/Square.png",
-    "note/Monobehaviour的生命周期函数和事件函数.md",
     "note/UI系统之UGUI.md",
     "note/协程.md",
     "note/Animator新版动画系统.md",
-    "note/通过虚拟轴和角色控制器实现第三视角移动.md",
-    "note/相机、射线及unity常用坐标系.md",
-    "note/UGUI事件注册.md"
+    "note/通过虚拟轴和角色控制器实现第三视角移动.md"
   ]
 }
