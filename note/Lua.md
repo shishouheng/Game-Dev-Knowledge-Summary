@@ -788,7 +788,13 @@ end
 
 # 八、面向对象
 
-lua本身没有面向对象的概念，但是通过table的各种用法，可以模拟出类似面向对象的特性。再lua中我们可以使用table和元表来实现面向对象编程的一些基本概念，如封装、继承和多态
+lua本身没有面向对象的概念，但是通过table的各种用法，可以模拟出类似面向对象的特性。在lua中我们可以使用table和元表来实现面向对象编程的一些基本概念，如封装、继承和多态
+
+
+
+## 1.封装
+
+通过table实现类的封装和实例化
 
 ```lua
 class1={x=0,y=0,z=0}
@@ -817,3 +823,94 @@ local r2=class1:new(8,9)
 print(r2.y)--9
 r2:printZ()--17
 ```
+
+
+## 2.继承与多态
+
+先实现一个父类ball，然后子类basketball继承于ball
+```lua
+ball={name='',price=0,size=0}
+ball.__index=ball
+
+function ball:new(name,price,size)
+	local o={}
+	setmetatable(o,ball)
+	o.name=name or ''
+	o.price=price or 0
+	o.size=size or 0
+	return o
+end
+
+function ball:play()
+	print('play ball')
+end
+```
+
+子类basketball
+```lua
+require 'ball'--加载进来
+
+basketball={color=''}
+--设置父类是ball
+setmetatable(basketball,ball)
+--本身也是一个元表，因为需要实例化
+basketball.__index=basketball
+
+function basketball:new(name,price,size,color)
+	local t={}
+	--可以理解为先执行父类的构造
+	t=ball:new(name,price,size)
+	setmetatable(t,basketball)
+	t.color=color or ''
+	return t
+end
+
+--篮球类自身定义的新函数
+function basketball:go()
+	self.price=self.price+10
+end
+
+--与父类方法重名，会override
+function basketball:play()
+	print('打篮球')
+end
+
+
+local b=basketball:new('斯伯丁',100,200,'黑色')
+print(b.name)
+print(b.color)
+b.play()--执行的是basketball里的play方法
+```
+
+## 3.lua单例模式
+
+```lua
+Manager={}
+Manager.num=1
+Manager.__index=Manager
+
+function Manager:new()
+	self={}
+	setmetatable(self,Manager)
+	return self
+end
+
+function Manager:GetInstance()
+	if self.instance==nil then
+		self.instance=Manager:new()
+	end
+	return self.instance
+end
+
+function Manager:Fun1()
+	print('Manager Fun1')
+end
+
+local manager1=Manager:GetInstance()
+manager1.num=100
+
+local manager2=Manager:GetInstance()
+print(manager2.num)--100
+```
+
+
