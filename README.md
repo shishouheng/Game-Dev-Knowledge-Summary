@@ -81,3 +81,7 @@
 38[Lua](https://github.com/shishouheng/Unity-learning/blob/main/note/Lua.md)
 
 39[Lua与C Sharp对比](https://github.com/shishouheng/Unity-learning/blob/main/note/Lua%E4%B8%8EC%20Sharp%E5%AF%B9%E6%AF%94.md)
+
+40[XLua](https://github.com/shishouheng/Unity-learning/blob/main/note/XLua.md)
+
+41[热更新](https://github.com/shishouheng/Unity-learning/blob/main/note/%E7%83%AD%E6%9B%B4%E6%96%B0.md)

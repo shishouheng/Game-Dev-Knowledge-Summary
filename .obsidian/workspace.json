@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/热更新.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/热更新.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/热更新.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/热更新.md"
+                "file": "README.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "c2316423cf59dacc",
   "lastOpenFiles": [
+    "note/热更新.md",
     "note/XLua.md",
     "note/线渲染器Line Render.md",
-    "note/热更新.md",
     "note/协程.md",
     "note/UI系统之UGUI.md",
     "note/UGUI事件注册.md",
