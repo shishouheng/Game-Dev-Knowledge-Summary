@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/检查版本号并进行游戏更新.md",
+                "file": "note/数据持久化.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/检查版本号并进行游戏更新.md",
+                "file": "note/数据持久化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/检查版本号并进行游戏更新.md",
+                "file": "note/数据持久化.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/检查版本号并进行游戏更新.md"
+                "file": "note/数据持久化.md"
               }
             }
           },
@@ -171,11 +171,15 @@
   },
   "active": "c2316423cf59dacc",
   "lastOpenFiles": [
-    "note/常用移动方式总结.md",
+    "note/迭代器.md",
+    "note/面试问题总结.md",
     "note/检查版本号并进行游戏更新.md",
+    "note/批处理和UI优化.md",
     "note/热更新.md",
     "note/XLua.md",
+    "note/Tip.md",
     "README.md",
+    "note/常用移动方式总结.md",
     "note/线渲染器Line Render.md",
     "note/协程.md",
     "note/UI系统之UGUI.md",
@@ -183,7 +187,6 @@
     "note/UGUI基础控件.md",
     "note/AssetBundle.md",
     "note/Lua.md",
-    "note/面试问题总结.md",
     "note/Lua与C Sharp对比.md",
     "[Unity-learning/images/assetbundle.png.md",
     "note/Monobehaviour的生命周期函数和事件函数.md",
@@ -194,15 +197,12 @@
     "Pasted image 20230829223232.png",
     "Pasted image 20230905204156.png",
     "Pasted image 20230905210727.png",
-    "note/迭代器.md",
     "未命名.md",
     "note/AStar算法.md",
     "note/AStar寻路.pdf",
     "note/Component类.md",
     "note/特性和反射.md",
-    "note/Tip.md",
     "note/DoTween插件.md",
-    "note/批处理和UI优化.md",
     "Pasted image 20230829223104.png",
     "images/缓动函数.png",
     "note/导航状态机/8.24.sln",
