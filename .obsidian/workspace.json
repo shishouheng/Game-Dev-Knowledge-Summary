@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "65b4defc27ba99e1",
+        "id": "563648f87e62f7ec",
         "type": "tabs",
         "children": [
           {
-            "id": "d703ff9b18153992",
+            "id": "725a2544bd963baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/XLua.md",
+                "file": "note/批处理和UI优化.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c2316423cf59dacc",
+            "id": "e8d6a3b7ae773a03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "note/数据持久化.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.14"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/数据持久化.md",
+                "file": "note/批处理和UI优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/数据持久化.md",
+                "file": "note/批处理和UI优化.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/数据持久化.md"
+                "file": "note/批处理和UI优化.md"
               }
             }
           },
@@ -169,13 +167,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c2316423cf59dacc",
+  "active": "e8d6a3b7ae773a03",
   "lastOpenFiles": [
-    "note/迭代器.md",
     "note/面试问题总结.md",
+    "note/网络同步.md",
+    "note/未命名.md",
+    "note/Socket网络交互.md",
+    "note/热更新.md",
+    "images/Socket.png",
+    "note/数据持久化.md",
+    "note/迭代器.md",
     "note/检查版本号并进行游戏更新.md",
     "note/批处理和UI优化.md",
-    "note/热更新.md",
     "note/XLua.md",
     "note/Tip.md",
     "README.md",
@@ -198,11 +201,7 @@
     "Pasted image 20230905204156.png",
     "Pasted image 20230905210727.png",
     "未命名.md",
-    "note/AStar算法.md",
     "note/AStar寻路.pdf",
-    "note/Component类.md",
-    "note/特性和反射.md",
-    "note/DoTween插件.md",
     "Pasted image 20230829223104.png",
     "images/缓动函数.png",
     "note/导航状态机/8.24.sln",
