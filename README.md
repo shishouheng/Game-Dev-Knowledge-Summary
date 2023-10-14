@@ -87,3 +87,7 @@
 41[热更新](https://github.com/shishouheng/Unity-learning/blob/main/note/%E7%83%AD%E6%9B%B4%E6%96%B0.md)
 
 42[检查版本号并进行游戏热更新](https://github.com/shishouheng/Unity-learning/blob/main/note/%E6%A3%80%E6%9F%A5%E7%89%88%E6%9C%AC%E5%8F%B7%E5%B9%B6%E8%BF%9B%E8%A1%8C%E6%B8%B8%E6%88%8F%E6%9B%B4%E6%96%B0.md)
+
+43[Sokect网络交互](https://github.com/shishouheng/Unity-learning/blob/main/note/Socket%E7%BD%91%E7%BB%9C%E4%BA%A4%E4%BA%92.md)
+
+44[网络同步](https://github.com/shishouheng/Unity-learning/blob/main/note/%E7%BD%91%E7%BB%9C%E5%90%8C%E6%AD%A5.md)

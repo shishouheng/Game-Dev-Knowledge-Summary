@@ -49,6 +49,7 @@ Socket通信的基本流程如下：
 - 服务器端发送响应数据到客户端
 - 客户端接收服务器端的响应数据
 - 客户端和服务器端关闭连接
+![](https://github.com/shishouheng/Unity-learning/blob/main/images/Socket.png)
 ![[Socket.png]]
 
 socket的两种通信模式
@@ -103,7 +104,7 @@ namespace Server
 }
 ```
 
-服务端
+客户端
 
 ```c#
 using System.Collections;

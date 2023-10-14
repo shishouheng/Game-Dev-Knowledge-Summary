@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/批处理和UI优化.md",
+                "file": "note/数据结构.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e8d6a3b7ae773a03",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/批处理和UI优化.md",
+                "file": "note/数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/批处理和UI优化.md",
+                "file": "note/数据结构.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/批处理和UI优化.md"
+                "file": "note/数据结构.md"
               }
             }
           },
@@ -167,18 +156,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8d6a3b7ae773a03",
+  "active": "725a2544bd963baf",
   "lastOpenFiles": [
+    "note/数据结构.md",
+    "note/Socket网络交互.md",
+    "note/AStar算法.md",
+    "note/批处理和UI优化.md",
     "note/面试问题总结.md",
     "note/网络同步.md",
-    "note/未命名.md",
-    "note/Socket网络交互.md",
     "note/热更新.md",
     "images/Socket.png",
     "note/数据持久化.md",
     "note/迭代器.md",
     "note/检查版本号并进行游戏更新.md",
-    "note/批处理和UI优化.md",
     "note/XLua.md",
     "note/Tip.md",
     "README.md",
@@ -200,7 +190,6 @@
     "Pasted image 20230829223232.png",
     "Pasted image 20230905204156.png",
     "Pasted image 20230905210727.png",
-    "未命名.md",
     "note/AStar寻路.pdf",
     "Pasted image 20230829223104.png",
     "images/缓动函数.png",
