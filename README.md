@@ -95,3 +95,7 @@
 45[异步非阻塞Socket交互](https://github.com/shishouheng/Unity-learning/blob/main/note/%E5%BC%82%E6%AD%A5%E9%9D%9E%E9%98%BB%E5%A1%9ESocket%E4%BA%A4%E4%BA%92.md)
 
 46[数据结构](https://github.com/shishouheng/Unity-learning/blob/main/note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
+
+47[设计模式](https://github.com/shishouheng/Unity-learning/blob/main/note/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+
+48[通过状态模式和管理者模式搭建游戏框架](https://github.com/shishouheng/Unity-learning/blob/main/note/%E9%80%9A%E8%BF%87%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F%E5%92%8C%E7%AE%A1%E7%90%86%E8%80%85%E6%A8%A1%E5%BC%8F%E6%90%AD%E5%BB%BA%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6.md)
