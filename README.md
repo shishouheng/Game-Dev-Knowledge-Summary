@@ -99,3 +99,5 @@
 47[设计模式](https://github.com/shishouheng/Unity-learning/blob/main/note/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
 48[通过状态模式和管理者模式搭建游戏框架](https://github.com/shishouheng/Unity-learning/blob/main/note/%E9%80%9A%E8%BF%87%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F%E5%92%8C%E7%AE%A1%E7%90%86%E8%80%85%E6%A8%A1%E5%BC%8F%E6%90%AD%E5%BB%BA%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6.md)
+
+49[shader入门](https://github.com/shishouheng/Unity-learning/blob/main/note/Shader%E5%85%A5%E9%97%A8.md#%E4%B8%89%E8%A1%A8%E9%9D%A2%E7%9D%80%E8%89%B2%E5%99%A8%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84)

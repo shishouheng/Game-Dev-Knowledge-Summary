@@ -42,7 +42,7 @@ struct SurfaceOutput
  fixed Alpha;//透明度
 };
 ```
-
+![](https://github.com/shishouheng/Unity-learning/blob/main/images/shader%20code%20frame.png)
 
 ![[shader code frame.png]]
 shader代码的整体结构从上往下依次是
@@ -464,6 +464,7 @@ Shader "Custom/WaterSurface"
 ```
 
 # 五、表面着色器执行顺序
+![](https://github.com/shishouheng/Unity-learning/blob/main/images/surface%20shader%20sequence.png)
 
 ![[surface shader sequence.png]]
 
