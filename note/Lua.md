@@ -798,7 +798,7 @@ lua本身没有面向对象的概念，但是通过table的各种用法，可以
 
 ```lua
 class1={x=0,y=0,z=0}
-class1.__index=class1--查不到得元素从class1中查找
+class1.__index=class1 --查不到的元素从class1中查找
 
 --构造函数，通过冒号语法可以将调用对象作为第一个参数传入即相当于class1.new(class1,x,y)
 function class1:new(x,y)
