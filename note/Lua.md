@@ -447,7 +447,7 @@ end
 闭包（closure）一般用于匿名函数或者嵌套函数，由一个函数和该函数能访问到的非局部变量组成，可以理解为函数A可以返回函数B，此时函数B可以访问函数A中的变量，这个变量就是非局部变量（不是函数B的局部变量，也不是全局变量），也叫upvalue
 
 ```lua
-function A(a)
+function Fun1(a)
 	local x=a
 	--闭包，改变了传入参数的生命周期
 	return function(y)
@@ -455,7 +455,7 @@ function A(a)
 	end
 end
 
-B=Fun1(5) --此时B就是A中返回的函数
+B=Fun1(5) --此时B就是Fun1中返回的函数
 B(4)  --输出9
 ```
 
