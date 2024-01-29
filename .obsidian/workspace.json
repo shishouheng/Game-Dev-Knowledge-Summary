@@ -159,9 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f4c1f738ebfeb950",
+  "active": "725a2544bd963baf",
   "lastOpenFiles": [
     "note/Unity中SDK接入.md",
+    "note/Socket网络交互.md",
+    "README.md",
     "images/baiduSDK/import depend.png",
     "note/UI系统之UGUI.md",
     "Pasted image 20240128213929.png",
@@ -182,7 +184,6 @@
     "note/特性和反射.md",
     "note/摄像机跟随策略.md",
     "note/数据结构.md",
-    "note/Socket网络交互.md",
     "note/面试问题总结.md",
     "note/网络同步.md",
     "images/Socket.png",
@@ -191,7 +192,6 @@
     "note/检查版本号并进行游戏更新.md",
     "note/XLua.md",
     "note/Tip.md",
-    "README.md",
     "[Unity-learning/images",
     "[Unity-learning",
     "Pasted image 20230829223232.png",
