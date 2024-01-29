@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/数据结构.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/数据结构.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/数据结构.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/数据结构.md"
+                "file": "README.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -144,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,15 +159,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "725a2544bd963baf",
+  "active": "f4c1f738ebfeb950",
   "lastOpenFiles": [
+    "note/Unity中SDK接入.md",
+    "images/baiduSDK/import depend.png",
+    "note/UI系统之UGUI.md",
+    "Pasted image 20240128213929.png",
+    "note/线渲染器Line Render.md",
+    "note/状态机.md",
+    "note/AStar算法.md",
+    "note/Animator新版动画系统.md",
+    "note/热更新.md",
+    "note/批处理和UI优化.md",
+    "note/排序算法.md",
+    "note/卡通着色.md",
+    "note/顶点与片元着色器.md",
+    "images/baiduSDK/delete.png",
+    "images/baiduSDK",
+    "images/新建文件夹",
+    "note/游戏优化.md",
+    "note/协程.md",
+    "note/特性和反射.md",
+    "note/摄像机跟随策略.md",
     "note/数据结构.md",
     "note/Socket网络交互.md",
-    "note/AStar算法.md",
-    "note/批处理和UI优化.md",
     "note/面试问题总结.md",
     "note/网络同步.md",
-    "note/热更新.md",
     "images/Socket.png",
     "note/数据持久化.md",
     "note/迭代器.md",
@@ -172,21 +192,8 @@
     "note/XLua.md",
     "note/Tip.md",
     "README.md",
-    "note/常用移动方式总结.md",
-    "note/线渲染器Line Render.md",
-    "note/协程.md",
-    "note/UI系统之UGUI.md",
-    "note/UGUI事件注册.md",
-    "note/UGUI基础控件.md",
-    "note/AssetBundle.md",
-    "note/Lua.md",
-    "note/Lua与C Sharp对比.md",
-    "[Unity-learning/images/assetbundle.png.md",
-    "note/Monobehaviour的生命周期函数和事件函数.md",
-    "note/相机、射线及unity常用坐标系.md",
     "[Unity-learning/images",
     "[Unity-learning",
-    "Pasted image 20230905210727.png.md",
     "Pasted image 20230829223232.png",
     "Pasted image 20230905204156.png",
     "Pasted image 20230905210727.png",
@@ -198,10 +205,6 @@
     "note/导航状态机/8.2.sln",
     "note/导航状态机/UnityPackageManager/manifest.json",
     "note/导航状态机/UnityPackageManager",
-    "note/导航状态机/ProjectSettings/UnityConnectSettings.asset",
-    "note/导航状态机/ProjectSettings/TimeManager.asset",
-    "images/Tip/Transitions.png",
-    "note/角色状态机/Assets/血条_(2)_爱给网_aigei_com.png",
-    "note/XML框架实现答题系统/Project/Assets/Square.png"
+    "images/Tip/Transitions.png"
   ]
 }
