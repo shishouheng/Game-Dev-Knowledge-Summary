@@ -114,4 +114,4 @@
 
 55[面试问题总结](https://github.com/shishouheng/Unity-learning/blob/main/note/%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-56[百度定位SDK接入](Unity-learning/note/Unity中SDK接入.md at main · shishouheng/Unity-learning (github.com)(https://github.com/shishouheng/Unity-learning/blob/main/note/Unity%E4%B8%ADSDK%E6%8E%A5%E5%85%A5.md)
+56[百度定位SDK接入](shishouheng/Game-Dev-Knowledge-Summary (github.com)https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/Unity%E4%B8%ADSDK%E6%8E%A5%E5%85%A5.md)

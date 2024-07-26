@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "563648f87e62f7ec",
+        "id": "0e688c0819ffcd97",
         "type": "tabs",
         "children": [
           {
-            "id": "725a2544bd963baf",
+            "id": "a3910651accd55bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240128213929.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Pasted image 20240128213929.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Pasted image 20240128213929.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Pasted image 20240128213929.png"
               }
             }
           },
@@ -159,11 +157,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "725a2544bd963baf",
+  "active": "a3910651accd55bc",
   "lastOpenFiles": [
+    "README.md",
+    "Unity-learning/note/Unity中SDK接入.md",
+    "Unity-learning/note",
+    "Unity-learning",
     "note/Unity中SDK接入.md",
     "note/Socket网络交互.md",
-    "README.md",
     "images/baiduSDK/import depend.png",
     "note/UI系统之UGUI.md",
     "Pasted image 20240128213929.png",
@@ -203,8 +204,6 @@
     "note/导航状态机/8.24.sln",
     "note/导航状态机/8.24.csproj",
     "note/导航状态机/8.2.sln",
-    "note/导航状态机/UnityPackageManager/manifest.json",
-    "note/导航状态机/UnityPackageManager",
     "images/Tip/Transitions.png"
   ]
 }
