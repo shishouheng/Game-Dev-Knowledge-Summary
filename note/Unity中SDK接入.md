@@ -13,8 +13,8 @@
 - Unity项目设置好PackageName和KeyStore后创建一个空的安卓工程
 - 该安卓工程的PackageName和Minimum SDK版本需要与Unity中的一致
 - 交互项目创建完成后删除工程中的两个Test项目以及res下的无用资源
- ![[Pasted image 20240128213929.png]]
- ![]([Unity-learning/images/baiduSDK/delete.png at main · shishouheng/Unity-learning (github.com)](https://github.com/shishouheng/Unity-learning/blob/main/images/baiduSDK/delete.png))
+
+ ![](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/images/Pasted%20image%2020240128213929.png))
 
 - 接着需要配置build.gradle文件，切换到project视图，打开app下的build.gradle文件，由于我们是要导出aar文件，因此需要将
 ```java
@@ -42,8 +42,8 @@ D:\unity\2022.3.16f1c1\Editor\Data\PlaybackEngines\AndroidPlayer\Source...
 \UnityPlayerActivity
 ```
 
-![[import depend.png]]
-![]([Unity-learning/images/baiduSDK/import depend.png at main · shishouheng/Unity-learning (github.com)](https://github.com/shishouheng/Unity-learning/blob/main/images/baiduSDK/import%20depend.png))
+
+![](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/images/baiduSDK/import%20depend.png)
 - 接着需要修改MainActivity脚本（改为继承UnityPlayerActivity,然后注释OnCreate函数中的setContentView代码
 ```java
 package com.personal.sdkPractice;  

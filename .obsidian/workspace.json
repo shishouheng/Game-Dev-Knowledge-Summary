@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "note/Unity中SDK接入.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "note/Unity中SDK接入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "note/Unity中SDK接入.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "note/Unity中SDK接入.md"
               }
             }
           },
@@ -161,13 +161,17 @@
   },
   "active": "a3910651accd55bc",
   "lastOpenFiles": [
+    "[Unity-learning/images/baiduSDK/import.md",
+    "note/Unity中SDK接入.md",
+    "[Unity-learning/images/baiduSDK",
+    "[Unity-learning/images",
+    "[Unity-learning",
+    "README.md",
     "Pasted image 20240128213929.png",
     "images/Pasted image 20240128213929.png",
-    "README.md",
     "Unity-learning/note/Unity中SDK接入.md",
     "Unity-learning/note",
     "Unity-learning",
-    "note/Unity中SDK接入.md",
     "note/Socket网络交互.md",
     "images/baiduSDK/import depend.png",
     "note/UI系统之UGUI.md",
@@ -195,8 +199,6 @@
     "note/迭代器.md",
     "note/检查版本号并进行游戏更新.md",
     "note/XLua.md",
-    "[Unity-learning/images",
-    "[Unity-learning",
     "Pasted image 20230829223232.png",
     "Pasted image 20230905204156.png",
     "Pasted image 20230905210727.png",
@@ -204,8 +206,6 @@
     "Pasted image 20230829223104.png",
     "images/缓动函数.png",
     "note/导航状态机/8.24.sln",
-    "note/导航状态机/8.24.csproj",
-    "note/导航状态机/8.2.sln",
-    "images/Tip/Transitions.png"
+    "note/导航状态机/8.24.csproj"
   ]
 }
