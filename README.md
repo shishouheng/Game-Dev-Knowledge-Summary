@@ -113,3 +113,15 @@
 [面试问题总结](https://github.com/shishouheng/Unity-learning/blob/main/note/%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
 [百度定位SDK接入](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/Unity%E4%B8%ADSDK%E6%8E%A5%E5%85%A5.md)
+
+## 杂七杂八的笔记
+
+[Mono和IL2CPP](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/Mono%E5%92%8CIL2CPP.md)
+
+[Unity Mono堆内存管理和GC](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/Unity%20Mono%E5%A0%86%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E5%92%8CGC.md)
+
+[Unity静默模式](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/Unity%E9%9D%99%E9%BB%98%E6%A8%A1%E5%BC%8F.md)
+
+[大世界性能优化方案](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/%E5%A4%A7%E4%B8%96%E7%95%8C%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.md)
+
+[Python装饰器](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/Python%E8%A3%85%E9%A5%B0%E5%99%A8.md)
