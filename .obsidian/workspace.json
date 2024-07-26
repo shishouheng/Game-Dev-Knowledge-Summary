@@ -11,9 +11,11 @@
             "id": "a3910651accd55bc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240128213929.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240128213929.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240128213929.png",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240128213929.png"
+                "file": "README.md"
               }
             }
           },
@@ -159,6 +161,7 @@
   },
   "active": "a3910651accd55bc",
   "lastOpenFiles": [
+    "Pasted image 20240128213929.png",
     "README.md",
     "Unity-learning/note/Unity中SDK接入.md",
     "Unity-learning/note",
@@ -167,7 +170,6 @@
     "note/Socket网络交互.md",
     "images/baiduSDK/import depend.png",
     "note/UI系统之UGUI.md",
-    "Pasted image 20240128213929.png",
     "note/线渲染器Line Render.md",
     "note/状态机.md",
     "note/AStar算法.md",
@@ -192,7 +194,6 @@
     "note/迭代器.md",
     "note/检查版本号并进行游戏更新.md",
     "note/XLua.md",
-    "note/Tip.md",
     "[Unity-learning/images",
     "[Unity-learning",
     "Pasted image 20230829223232.png",
