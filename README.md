@@ -121,6 +121,23 @@
 
 ## c++
 
+[头文件和源文件](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/c%2B%2B/%E5%A4%B4%E6%96%87%E4%BB%B6%E5%92%8C%E6%BA%90%E6%96%87%E4%BB%B6.md)
+
+[Const总结](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/c%2B%2B/Const%E6%80%BB%E7%BB%93.md)
+
+[Sizeof关键字](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/c%2B%2B/Sizeof%E5%85%B3%E9%94%AE%E5%AD%97.md)
+
+[c++的类型转换](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/c%2B%2B/c%2B%2B%E7%9A%84%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
+
+[explicit关键字](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/c%2B%2B/explicit%E5%85%B3%E9%94%AE%E5%AD%97.md)
+
+[extern的作用](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/c%2B%2B/extern%E7%9A%84%E4%BD%9C%E7%94%A8.md)
+
+[字节对齐](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/c%2B%2B/%E5%AD%97%E8%8A%82%E5%AF%B9%E9%BD%90.md)
+
+[字节序](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/c%2B%2B/%E5%AD%97%E8%8A%82%E5%BA%8F.md)
+
+[宏定义与内联函数](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/c%2B%2B/%E5%AE%8F%E5%AE%9A%E4%B9%89%E4%B8%8E%E5%86%85%E8%81%94%E5%87%BD%E6%95%B0.md)
 
 ## 杂七杂八的笔记
 
