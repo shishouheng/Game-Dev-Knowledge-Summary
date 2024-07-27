@@ -150,3 +150,5 @@
 [大世界性能优化方案](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/%E5%A4%A7%E4%B8%96%E7%95%8C%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.md)
 
 [Python装饰器](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/Python%E8%A3%85%E9%A5%B0%E5%99%A8.md)
+
+[IL注入和XLua原理](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/IL%E6%B3%A8%E5%85%A5%E5%92%8CXLua%E5%8E%9F%E7%90%86.md)
