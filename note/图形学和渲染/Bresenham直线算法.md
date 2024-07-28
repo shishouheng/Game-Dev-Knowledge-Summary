@@ -9,11 +9,12 @@ Bresenham算法是一种用于在二维图形中绘制直线的整数算法。�
 对于像正方形这种很规则的图形可以直接无脑的将其大小内部的像素改变颜色，但是对于显示其他比较特殊的图形可能就需要一些策略了，如三角形、圆形、斜线等，这里就以最简单的斜线为例。
 
 在屏幕上画一条斜线我们需要知道线段的起点和终点（先假设斜率0<k<1），然后先将起点和终点设置为我们想要的颜色，如下：
-
+![Game-Dev-Knowledge-Summary/images/Bresenham/StartEnd.jpg at main · shishouheng/Game-Dev-Knowledge-Summary (github.com)](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/images/Bresenham/StartEnd.jpg)
 ![[StartEnd.jpg]]
 
 起点和终点的像素确定后，我们发现理论直线还会经过1234这四个像素点，但我们该如何确定选择哪个像素点作为我们需要的呢？这里我们就需要用到Bresenham算法的思想了。
 
+![Game-Dev-Knowledge-Summary/images/Bresenham/ChoosePixel.jpg at main · shishouheng/Game-Dev-Knowledge-Summary (github.com)](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/images/Bresenham/ChoosePixel.jpg)
 ![[ChoosePixel.jpg]]
 
 因为斜率在0到1之间，所以我们能确定下一个点的位置的x值一定是加1的，然后此时直线经过了1和3两个像素点，我们可以选取3和1像素点的中心点P<sub>1</sub> 和P<sub>2</sub>，然后分别取得它们到直线的距离D<sub>1</sub> 和D<sub>2</sub>，如果D<sub>1</sub> <D<sub>2</sub>我们就选取P<sub>1</sub> 所在的像素点为下一个像素点，否则选择P<sub>2</sub>所在像素点为下一个像素点。即：
@@ -51,6 +52,7 @@ $\therefore$ d<sub>i+1</sub>=2$\Delta$yx<sub>i+1</sub>-2y<sub>i+1</sub>$\Delta$x
 
 当我们斜率在0到1之间时，步进方向是在x轴上的（大于0时步进方向在y轴上），步进方向可以帮我们判断像素的前进方向。
 
+![Game-Dev-Knowledge-Summary/images/Bresenham/StepDirection.jpg at main · shishouheng/Game-Dev-Knowledge-Summary (github.com)](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/images/Bresenham/StepDirection.jpg)
 ![[StepDirection.jpg]]
 
 当步进方向是在x轴上的时候（即斜率在0和1之间），很明显可以知道x<sub>i+1</sub>=x<sub>i</sub>，但y<sub>i+1</sub>会有两种可能，即
@@ -58,3 +60,7 @@ $\therefore$ d<sub>i+1</sub>=2$\Delta$yx<sub>i+1</sub>-2y<sub>i+1</sub>$\Delta$x
 - y<sub>i+1</sub>=y<sub>i</sub>+1(此时D<sub>1</sub> >D<sub>2</sub>,并且d<sub>i</sub>>0,参考图二)
 
 这样我们就能根据当前像素点的位置确定下一个像素点的位置，然后我们只需要在程序开始时给定起点和终点的位置，程序一直循环，并根据起点的位置判断下一个像素点的位置，一直循环到终点即可通过像素画出一条直线
+
+参考：
+[软光栅—bresenham直线绘制算法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rt4y1b7vp/?spm_id_from=333.788&vd_source=1fd51ecd10487bb45073ef384c5507a8)
+[Bresenham画直线算法（所有斜率） - 明明1109 - 博客园 (cnblogs.com)](https://www.cnblogs.com/fortunely/p/17660786.html)
