@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1a413551f125c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "877ef6872f8d5a55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/乱七八糟的知识/Mono和IL2CPP.md",
+                "file": "note/图形学和渲染/Bresenham直线算法.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "note/图形学和渲染/Bresenham直线算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "note/图形学和渲染/Bresenham直线算法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "note/图形学和渲染/Bresenham直线算法.md"
               }
             }
           },
@@ -170,11 +158,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f1a413551f125c07",
+  "active": "877ef6872f8d5a55",
   "lastOpenFiles": [
-    "note/乱七八糟的知识/IL注入和XLua原理.md",
+    "images/Bresenham/StepDirection.jpg",
+    "note/图形学和渲染/Bresenham直线算法.md",
+    "images/Bresenham/ChoosePixel.jpg",
+    "images/Bresenham/StartEnd.jpg",
+    "images/Bresenham/StartEnd.jpg",
     "note/乱七八糟的知识/Mono和IL2CPP.md",
+    "images/Bresenham",
+    "笔记 2024年7月28日.pdf",
     "README.md",
+    "note/乱七八糟的知识/IL注入和XLua原理.md",
     "note/c++/宏定义与内联函数.md",
     "note/c++/字节序.md",
     "note/c++/字节对齐.md",
@@ -186,7 +181,6 @@
     "note/c++/c++的类型转换.md",
     "note/c++",
     "note/untitled folder",
-    "note/图形学和渲染/Bresenham直线算法.md",
     "note/图形学和渲染",
     "note/乱七八糟的知识/大世界性能优化方案.md",
     "note/乱七八糟的知识/Unity静默模式.md",
@@ -201,22 +195,15 @@
     "note/迭代器.md",
     "note/设计模式.md",
     "note/网络同步.md",
-    "note/线渲染器Line Render.md",
     "note/导航状态机/Assets/Meshes/Soldier/Ladder_Anims/Materials/No Name.mat.meta",
     "note/导航状态机/Assets/Meshes/Soldier/Ladder_Anims/Materials/No Name.mat",
     "note/导航状态机/Assets/Meshes/Soldier/Jump_Anims/new/Soldier@RunJump.FBX",
     "note/导航状态机/Assets/Meshes/Soldier/Jump_Anims/new/Soldier@RunJump.FBX.meta",
-    "note/导航状态机/Assets/Meshes/Soldier/Walk_Anims/Soldier@Walk.FBX.meta",
-    "note/导航状态机/Assets/Meshes/Soldier/Walk_Anims/Soldier@Walk.FBX",
     "Pasted image 20240128213929.png",
     "images/Pasted image 20240128213929.png",
     "images/baiduSDK/import depend.png",
     "images/baiduSDK/delete.png",
     "images/Socket.png",
-    "Pasted image 20230829223232.png",
-    "Pasted image 20230905204156.png",
-    "Pasted image 20230905210727.png",
-    "Pasted image 20230829223104.png",
-    "images/缓动函数.png"
+    "Pasted image 20230829223232.png"
   ]
 }
