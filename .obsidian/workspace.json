@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/图形学和渲染/Unity 表面着色器代码结构.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/图形学和渲染/Unity 表面着色器代码结构.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/图形学和渲染/Unity 表面着色器代码结构.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/图形学和渲染/Unity 表面着色器代码结构.md"
+                "file": "README.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "877ef6872f8d5a55",
   "lastOpenFiles": [
-    "README.md",
     "note/图形学和渲染/Unity 表面着色器代码结构.md",
+    "README.md",
     "note/乱七八糟的知识/Unity常见性能分析器标记及含义.md",
     "note/乱七八糟的知识/IL注入和XLua原理.md",
     "note/图形学和渲染/Bresenham直线算法.md",
