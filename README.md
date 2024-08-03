@@ -1,5 +1,4 @@
-本来只是一个Unity的学习笔记仓库，但随着学习的深入，发现想要做游戏需要学习的不仅仅是引擎的使用，因此对对该仓库进行重构，将其他仓库里渲染、线代、微积分相关笔记合入该仓库。
-
+游戏开发知识库～
 ## Unity引擎相关
 
  [Monobehaviour的生命周期函数和事件函数](https://github.com/zhushouheng/Unity-learning/blob/main/note/Monobehaviour%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%87%BD%E6%95%B0%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%87%BD%E6%95%B0.md)
@@ -152,3 +151,5 @@
 [Python装饰器](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/Python%E8%A3%85%E9%A5%B0%E5%99%A8.md)
 
 [IL注入和XLua原理](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/IL%E6%B3%A8%E5%85%A5%E5%92%8CXLua%E5%8E%9F%E7%90%86.md)
+
+[Unity常见性能分析器标记及含义](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/Unity%E5%B8%B8%E8%A7%81%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90%E5%99%A8%E6%A0%87%E8%AE%B0%E5%8F%8A%E5%90%AB%E4%B9%89.md)

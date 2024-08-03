@@ -44,3 +44,8 @@
 - CPU开销很低，所以CPU在等待GPU完成渲染或者等待VSync的到来
 - CPU开销很高，使Present错过了当前帧的VSync，不得不等待下一次VSync的到来
 - GPU开销很高，使CPU需要花费很多时间等待GPU的渲染完成
+
+
+
+参考：[Profiler中WaitForTargetFPS详解_waitforfps-CSDN博客](https://blog.csdn.net/suifcd/article/details/50942686)
+[常见性能分析器标记 - Unity 手册](https://docs.unity.cn/cn/2020.3/Manual/profiler-markers.html)
