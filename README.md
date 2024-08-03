@@ -114,7 +114,7 @@
 [百度定位SDK接入](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/Unity%E4%B8%ADSDK%E6%8E%A5%E5%85%A5.md)
 
 
-## 图形学相关
+## 渲染和图形学相关
 
 [Bresenham直线算法](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%92%8C%E6%B8%B2%E6%9F%93/Bresenham%E7%9B%B4%E7%BA%BF%E7%AE%97%E6%B3%95.md)
 
