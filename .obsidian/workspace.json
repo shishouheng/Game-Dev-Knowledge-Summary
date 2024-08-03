@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "note/乱七八糟的知识/Unity常见性能分析器标记及含义.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "note/乱七八糟的知识/Unity常见性能分析器标记及含义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "note/乱七八糟的知识/Unity常见性能分析器标记及含义.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "note/乱七八糟的知识/Unity常见性能分析器标记及含义.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "877ef6872f8d5a55",
   "lastOpenFiles": [
+    "note/乱七八糟的知识/IL注入和XLua原理.md",
+    "note/乱七八糟的知识/Unity常见性能分析器标记及含义.md",
+    "README.md",
     "note/图形学和渲染/Bresenham直线算法.md",
     "images/Bresenham/StepDirection.jpg",
     "images/Bresenham/ChoosePixel.jpg",
@@ -168,8 +171,6 @@
     "note/乱七八糟的知识/Mono和IL2CPP.md",
     "images/Bresenham",
     "笔记 2024年7月28日.pdf",
-    "README.md",
-    "note/乱七八糟的知识/IL注入和XLua原理.md",
     "note/c++/宏定义与内联函数.md",
     "note/c++/字节序.md",
     "note/c++/字节对齐.md",
