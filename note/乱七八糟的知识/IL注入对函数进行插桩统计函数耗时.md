@@ -110,3 +110,5 @@ AssemblyDefinition assemblyDefinition = AssemblyDefinition.ReadAssembly(assembly
 然后在编辑器点击注入代码,然后通过反编译软件打开dll即可看到在测试代码的首位加上了计时器
 
 ![[Pasted image 20240810095339.png]]
+
+![Game-Dev-Knowledge-Summary/images/ILInject/Pasted image 20240810095339.png at main · shishouheng/Game-Dev-Knowledge-Summary (github.com)](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/images/ILInject/Pasted%20image%2020240810095339.png)

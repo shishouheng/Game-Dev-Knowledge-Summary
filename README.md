@@ -155,3 +155,5 @@
 [IL注入和XLua原理](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/IL%E6%B3%A8%E5%85%A5%E5%92%8CXLua%E5%8E%9F%E7%90%86.md)
 
 [Unity常见性能分析器标记及含义](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/Unity%E5%B8%B8%E8%A7%81%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90%E5%99%A8%E6%A0%87%E8%AE%B0%E5%8F%8A%E5%90%AB%E4%B9%89.md)
+
+[IL注入对函数进行插桩统计函数耗时](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/IL%E6%B3%A8%E5%85%A5%E5%AF%B9%E5%87%BD%E6%95%B0%E8%BF%9B%E8%A1%8C%E6%8F%92%E6%A1%A9%E7%BB%9F%E8%AE%A1%E5%87%BD%E6%95%B0%E8%80%97%E6%97%B6.md)
