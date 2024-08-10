@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "note/乱七八糟的知识/IL注入对函数进行插桩统计函数耗时.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#：",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "note/乱七八糟的知识/IL注入对函数进行插桩统计函数耗时.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "note/乱七八糟的知识/IL注入对函数进行插桩统计函数耗时.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "note/乱七八糟的知识/IL注入对函数进行插桩统计函数耗时.md"
               }
             }
           },
@@ -160,11 +160,18 @@
   },
   "active": "877ef6872f8d5a55",
   "lastOpenFiles": [
+    "images/ILInject/Pasted image 20240810095339.png",
+    "note/乱七八糟的知识/IL注入对函数进行插桩统计函数耗时.md",
+    "images/ILInject",
+    "未命名",
+    "note/乱七八糟的知识/IL注入和XLua原理.md",
     "note/图形学和渲染/Unity 表面着色器代码结构.md",
+    "note/图形学和渲染/Bresenham直线算法.md",
+    "note/AssetBundle.md",
+    "note/AStar寻路.pdf",
+    "note/Component类.md",
     "README.md",
     "note/乱七八糟的知识/Unity常见性能分析器标记及含义.md",
-    "note/乱七八糟的知识/IL注入和XLua原理.md",
-    "note/图形学和渲染/Bresenham直线算法.md",
     "images/Bresenham/StepDirection.jpg",
     "images/Bresenham/ChoosePixel.jpg",
     "images/Bresenham/StartEnd.jpg",
@@ -192,19 +199,11 @@
     "note/乱七八糟的知识",
     "note/顶点与片元着色器.md",
     "note/面试问题总结.md",
-    "note/通过虚拟轴和角色控制器实现第三视角移动.md",
-    "note/通过状态模式和管理者模式搭建游戏框架.md",
-    "note/迭代器.md",
-    "note/设计模式.md",
     "note/导航状态机/Assets/Meshes/Soldier/Ladder_Anims/Materials/No Name.mat.meta",
-    "note/导航状态机/Assets/Meshes/Soldier/Ladder_Anims/Materials/No Name.mat",
-    "note/导航状态机/Assets/Meshes/Soldier/Jump_Anims/new/Soldier@RunJump.FBX",
-    "note/导航状态机/Assets/Meshes/Soldier/Jump_Anims/new/Soldier@RunJump.FBX.meta",
     "Pasted image 20240128213929.png",
     "images/Pasted image 20240128213929.png",
     "images/baiduSDK/import depend.png",
     "images/baiduSDK/delete.png",
-    "images/Socket.png",
-    "Pasted image 20230829223232.png"
+    "images/Socket.png"
   ]
 }
