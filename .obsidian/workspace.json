@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/面试问题总结.md",
+                "file": "note/乱七八糟的知识/Gpu Instance与Batching.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/面试问题总结.md",
+                "file": "note/乱七八糟的知识/Gpu Instance与Batching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/面试问题总结.md",
+                "file": "note/乱七八糟的知识/Gpu Instance与Batching.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/面试问题总结.md"
+                "file": "note/乱七八糟的知识/Gpu Instance与Batching.md"
               }
             }
           },
@@ -158,8 +158,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7e071f8f3e62a42e",
+  "active": "877ef6872f8d5a55",
   "lastOpenFiles": [
+    "note/面试问题总结.md",
+    "note/乱七八糟的知识/Gpu Instance与Batching.md",
     "note/乱七八糟的知识/IL注入对函数进行插桩统计函数耗时.md",
     "README.md",
     "images/ILInject/Pasted image 20240810095339.png",
@@ -198,7 +200,6 @@
     "note/乱七八糟的知识/Bresenham直线算法.md",
     "note/乱七八糟的知识",
     "note/顶点与片元着色器.md",
-    "note/面试问题总结.md",
     "note/导航状态机/Assets/Meshes/Soldier/Ladder_Anims/Materials/No Name.mat.meta",
     "Pasted image 20240128213929.png",
     "images/Pasted image 20240128213929.png",
