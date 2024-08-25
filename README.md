@@ -120,6 +120,7 @@
 
 [Unity 表面着色器代码结构](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%92%8C%E6%B8%B2%E6%9F%93/Unity%20%E8%A1%A8%E9%9D%A2%E7%9D%80%E8%89%B2%E5%99%A8%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84.md)
 
+[Gpu Instance与Batching](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%9F%A5%E8%AF%86/Gpu%20Instance%E4%B8%8EBatching.md)
 ## c++
 
 [头文件和源文件](https://github.com/shishouheng/Game-Dev-Knowledge-Summary/blob/main/note/c%2B%2B/%E5%A4%B4%E6%96%87%E4%BB%B6%E5%92%8C%E6%BA%90%E6%96%87%E4%BB%B6.md)

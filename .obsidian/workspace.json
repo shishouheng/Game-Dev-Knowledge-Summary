@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/乱七八糟的知识/Gpu Instance与Batching.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/乱七八糟的知识/Gpu Instance与Batching.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/乱七八糟的知识/Gpu Instance与Batching.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/乱七八糟的知识/Gpu Instance与Batching.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,10 +158,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "877ef6872f8d5a55",
+  "active": "f4c1f738ebfeb950",
   "lastOpenFiles": [
+    "note/图形学和渲染/Gpu Instance与Batching.md",
     "note/面试问题总结.md",
-    "note/乱七八糟的知识/Gpu Instance与Batching.md",
     "note/乱七八糟的知识/IL注入对函数进行插桩统计函数耗时.md",
     "README.md",
     "images/ILInject/Pasted image 20240810095339.png",
